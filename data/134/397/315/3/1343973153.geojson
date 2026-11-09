@@ -46,7 +46,7 @@
         "wk:page":"Boa_Entrada"
     },
     "wof:country":"CV",
-    "wof:geomhash":"9e4abaf1dfb908600e5dd2721f229fce",
+    "wof:geomhash":"b38974074d51c36b9922786d2f75e7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     -23.66800000000001,
     15.115
 ],
-  "geometry": {"coordinates":[-23.66800000000001,15.115],"type":"Point"}
+  "geometry": {"coordinates":[-23.668,15.115],"type":"Point"}
 }

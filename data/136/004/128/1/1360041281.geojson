@@ -47,7 +47,7 @@
         "wk:page":"Fonte_Aleixo"
     },
     "wof:country":"CV",
-    "wof:geomhash":"e8d3cdb95807681d738c629f8502a42d",
+    "wof:geomhash":"28f55fb2b36a1c7268be14036e6f0133",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     -24.36667000000001,
     14.83333
 ],
-  "geometry": {"coordinates":[-24.36667000000001,14.83333],"type":"Point"}
+  "geometry": {"coordinates":[-24.36667,14.83333],"type":"Point"}
 }

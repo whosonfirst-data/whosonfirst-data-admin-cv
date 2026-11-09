@@ -45,7 +45,7 @@
         "wk:page":"Galinheiros"
     },
     "wof:country":"CV",
-    "wof:geomhash":"d021cf2ea6410ac665b9bb4981463d23",
+    "wof:geomhash":"a8274dd070a3f2bec4693a5e1d8e8d8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,5 +70,5 @@
     -24.45,
     15.0
 ],
-  "geometry": {"coordinates":[-24.45,15.0],"type":"Point"}
+  "geometry": {"coordinates":[-24.45,15],"type":"Point"}
 }

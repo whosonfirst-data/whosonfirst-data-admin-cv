@@ -46,7 +46,7 @@
         "gn:id":3374268
     },
     "wof:country":"CV",
-    "wof:geomhash":"6a758fe1e71fb169213576d70b7dca5d",
+    "wof:geomhash":"b12732fbb505886ddabb8e849bf8734d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     -24.36667000000001,
     16.65
 ],
-  "geometry": {"coordinates":[-24.36667000000001,16.65],"type":"Point"}
+  "geometry": {"coordinates":[-24.36667,16.65],"type":"Point"}
 }

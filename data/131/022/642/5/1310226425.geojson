@@ -50,7 +50,7 @@
         "wk:page":"Curral_Grande"
     },
     "wof:country":"CV",
-    "wof:geomhash":"fce2091a278ce31e8dffe2c69bd1dc9d",
+    "wof:geomhash":"bb1860a05b82f3b0dffa08a0845fec49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,5 +75,5 @@
     -25.11667000000001,
     17.16667
 ],
-  "geometry": {"coordinates":[-25.11667000000001,17.16667],"type":"Point"}
+  "geometry": {"coordinates":[-25.11667,17.16667],"type":"Point"}
 }

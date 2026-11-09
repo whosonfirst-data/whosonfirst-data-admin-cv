@@ -62,7 +62,7 @@
         "gn:id":3374316
     },
     "wof:country":"CV",
-    "wof:geomhash":"aaaab4ec147340cb18823668847acb08",
+    "wof:geomhash":"373826541e4e01968218462d3a554d08",
     "wof:hierarchy":[
         {
             "country_id":85632721,
@@ -85,5 +85,5 @@
     -22.81667,
     16.0
 ],
-  "geometry": {"coordinates":[-22.81667,16.0],"type":"Point"}
+  "geometry": {"coordinates":[-22.81667,16],"type":"Point"}
 }
