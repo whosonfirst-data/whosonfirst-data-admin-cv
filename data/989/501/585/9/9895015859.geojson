@@ -1,0 +1,72 @@
+{
+  "id": 9895015859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.37535,15.02373,-24.37535,15.02373",
+    "geom:latitude":15.02373,
+    "geom:longitude":-24.37535,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13485684: name \"Peixopana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13485684"
+        },
+        {
+            "citation":"GeoNames populated place 13485684: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13485684"
+        },
+        {
+            "citation":"GeoNames populated place 13485684: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13485684"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670287 (Mosteiros), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670287,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13485684
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"69a73babb36c363cf00dc638ebfb8f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015859,
+            "region_id":85670287
+        }
+    ],
+    "wof:id":9895015859,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Peixopana",
+    "wof:parent_id":85670287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.37535,
+    15.02373,
+    -24.37535,
+    15.02373
+],
+  "geometry": {"coordinates":[-24.37535,15.02373],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895016059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.20583,17.12894,-25.20583,17.12894",
+    "geom:latitude":17.12894,
+    "geom:longitude":-25.20583,
+    "gn:population":236,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13665032: name \"Figueiras\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13665032"
+        },
+        {
+            "citation":"GeoNames populated place 13665032: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13665032"
+        },
+        {
+            "citation":"GeoNames populated place 13665032: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13665032"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13665032
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"cfe5657d0ecadfa5d076f4991118bd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016059,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895016059,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Figueiras",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.20583,
+    17.12894,
+    -25.20583,
+    17.12894
+],
+  "geometry": {"coordinates":[-25.20583,17.12894],"type":"Point"}
+}

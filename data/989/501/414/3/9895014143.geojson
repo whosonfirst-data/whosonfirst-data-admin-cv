@@ -1,0 +1,72 @@
+{
+  "id": 9895014143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.04834,17.12986,-25.04834,17.12986",
+    "geom:latitude":17.12986,
+    "geom:longitude":-25.04834,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163222: name \"Poio de Padre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163222"
+        },
+        {
+            "citation":"GeoNames populated place 13163222: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163222"
+        },
+        {
+            "citation":"GeoNames populated place 13163222: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163222"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670369 (Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670369,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163222
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3f90e33205076a32cb0f432e975edfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014143,
+            "region_id":85670369
+        }
+    ],
+    "wof:id":9895014143,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Poio de Padre",
+    "wof:parent_id":85670369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.04834,
+    17.12986,
+    -25.04834,
+    17.12986
+],
+  "geometry": {"coordinates":[-25.04834,17.12986],"type":"Point"}
+}

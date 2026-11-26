@@ -1,0 +1,72 @@
+{
+  "id": 9895014539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.90811,16.16517,-22.90811,16.16517",
+    "geom:latitude":16.16517,
+    "geom:longitude":-22.90811,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13303127: name \"Carrice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13303127"
+        },
+        {
+            "citation":"GeoNames populated place 13303127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13303127"
+        },
+        {
+            "citation":"GeoNames populated place 13303127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13303127"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13303127
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"42bf1ea0eab278326ef038e9369038e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014539,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014539,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Carrice",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.90811,
+    16.16517,
+    -22.90811,
+    16.16517
+],
+  "geometry": {"coordinates":[-22.90811,16.16517],"type":"Point"}
+}

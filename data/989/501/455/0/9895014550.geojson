@@ -1,0 +1,72 @@
+{
+  "id": 9895014550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.88087,16.10475,-22.88087,16.10475",
+    "geom:latitude":16.10475,
+    "geom:longitude":-22.88087,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13306811: name \"Largo Lombinho Nh\u00e3 Rosa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13306811"
+        },
+        {
+            "citation":"GeoNames populated place 13306811: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13306811"
+        },
+        {
+            "citation":"GeoNames populated place 13306811: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13306811"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13306811
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"54b6a3833e1cd50ab42968f486180acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014550,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014550,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Largo Lombinho Nh\u00e3 Rosa",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.88087,
+    16.10475,
+    -22.88087,
+    16.10475
+],
+  "geometry": {"coordinates":[-22.88087,16.10475],"type":"Point"}
+}

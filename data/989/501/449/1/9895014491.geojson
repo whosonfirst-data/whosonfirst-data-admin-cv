@@ -1,0 +1,72 @@
+{
+  "id": 9895014491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.78303,16.1626,-22.78303,16.1626",
+    "geom:latitude":16.1626,
+    "geom:longitude":-22.78303,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13290826: name \"Casa de Jo\u00e3o Florencio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13290826"
+        },
+        {
+            "citation":"GeoNames populated place 13290826: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13290826"
+        },
+        {
+            "citation":"GeoNames populated place 13290826: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13290826"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13290826
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"81c72e0dce21199bf435aab39b7a7a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014491,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014491,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Casa de Jo\u00e3o Florencio",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.78303,
+    16.1626,
+    -22.78303,
+    16.1626
+],
+  "geometry": {"coordinates":[-22.78303,16.1626],"type":"Point"}
+}

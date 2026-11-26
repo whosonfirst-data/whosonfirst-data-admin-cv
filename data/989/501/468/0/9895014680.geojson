@@ -1,0 +1,72 @@
+{
+  "id": 9895014680,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.59702,15.14306,-23.59702,15.14306",
+    "geom:latitude":15.14306,
+    "geom:longitude":-23.59702,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318987: name \"Cutelo de Salto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318987"
+        },
+        {
+            "citation":"GeoNames populated place 13318987: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318987"
+        },
+        {
+            "citation":"GeoNames populated place 13318987: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318987"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318987
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"94dd468dd3f537e48c81a6dcdef297a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014680,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895014680,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cutelo de Salto",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.59702,
+    15.14306,
+    -23.59702,
+    15.14306
+],
+  "geometry": {"coordinates":[-23.59702,15.14306],"type":"Point"}
+}

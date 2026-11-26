@@ -1,0 +1,72 @@
+{
+  "id": 9895014237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.05441,17.17609,-25.05441,17.17609",
+    "geom:latitude":17.17609,
+    "geom:longitude":-25.05441,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163401: name \"Cabo da Ribeira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163401"
+        },
+        {
+            "citation":"GeoNames populated place 13163401: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163401"
+        },
+        {
+            "citation":"GeoNames populated place 13163401: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163401"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163401
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"d9f6b96ea0484a66a593b8de979b7062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014237,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014237,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cabo da Ribeira",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.05441,
+    17.17609,
+    -25.05441,
+    17.17609
+],
+  "geometry": {"coordinates":[-25.05441,17.17609],"type":"Point"}
+}

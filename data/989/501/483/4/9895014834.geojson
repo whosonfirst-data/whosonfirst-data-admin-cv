@@ -1,0 +1,72 @@
+{
+  "id": 9895014834,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.67553,15.24732,-23.67553,15.24732",
+    "geom:latitude":15.24732,
+    "geom:longitude":-23.67553,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319212: name \"P\u00e9 Topada\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319212"
+        },
+        {
+            "citation":"GeoNames populated place 13319212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319212"
+        },
+        {
+            "citation":"GeoNames populated place 13319212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319212"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670299 (Tarrafal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670299,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319212
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b8dd8dbab22e0e828eb9d59cdfea8bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014834,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":9895014834,
+    "wof:lastmodified":1795734980,
+    "wof:name":"P\u00e9 Topada",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.67553,
+    15.24732,
+    -23.67553,
+    15.24732
+],
+  "geometry": {"coordinates":[-23.67553,15.24732],"type":"Point"}
+}

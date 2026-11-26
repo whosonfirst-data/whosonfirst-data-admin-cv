@@ -1,0 +1,72 @@
+{
+  "id": 9895015332,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.56863,15.02805,-23.56863,15.02805",
+    "geom:latitude":15.02805,
+    "geom:longitude":-23.56863,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398813: name \"Cov\u00e3o do Engenho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398813"
+        },
+        {
+            "citation":"GeoNames populated place 13398813: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398813"
+        },
+        {
+            "citation":"GeoNames populated place 13398813: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398813"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398813
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"012be3930fdd196fd23354cfa0eb1d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015332,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015332,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cov\u00e3o do Engenho",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.56863,
+    15.02805,
+    -23.56863,
+    15.02805
+],
+  "geometry": {"coordinates":[-23.56863,15.02805],"type":"Point"}
+}

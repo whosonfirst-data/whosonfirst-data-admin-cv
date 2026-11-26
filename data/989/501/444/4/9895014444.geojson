@@ -1,0 +1,73 @@
+{
+  "id": 9895014444,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.92088,16.76037,-22.92088,16.76037",
+    "geom:latitude":16.76037,
+    "geom:longitude":-22.92088,
+    "gn:population":327,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13255390: name \"Alto do Solarinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13255390"
+        },
+        {
+            "citation":"GeoNames populated place 13255390: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13255390"
+        },
+        {
+            "citation":"GeoNames populated place 13255390: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13255390"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670341 (Sal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670341,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13255390
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"7cb905e56204f4ab11dbbf689d4d2bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014444,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":9895014444,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Alto do Solarinho",
+    "wof:parent_id":85670341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.92088,
+    16.76037,
+    -22.92088,
+    16.76037
+],
+  "geometry": {"coordinates":[-22.92088,16.76037],"type":"Point"}
+}

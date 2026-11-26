@@ -1,0 +1,72 @@
+{
+  "id": 9895015426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.60932,15.02258,-23.60932,15.02258",
+    "geom:latitude":15.02258,
+    "geom:longitude":-23.60932,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398933: name \"Ch\u00e3o Grande\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398933"
+        },
+        {
+            "citation":"GeoNames populated place 13398933: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398933"
+        },
+        {
+            "citation":"GeoNames populated place 13398933: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398933"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670327 (Ribeira Grande de Santiago), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398933
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9116ead93e6371fcac7bd6e50a7ee009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015426,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":9895015426,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3o Grande",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.60932,
+    15.02258,
+    -23.60932,
+    15.02258
+],
+  "geometry": {"coordinates":[-23.60932,15.02258],"type":"Point"}
+}

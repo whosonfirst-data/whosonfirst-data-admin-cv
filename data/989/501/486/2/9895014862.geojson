@@ -1,0 +1,73 @@
+{
+  "id": 9895014862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.63469,15.19689,-23.63469,15.19689",
+    "geom:latitude":15.19689,
+    "geom:longitude":-23.63469,
+    "gn:population":7,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319247: name \"Tambarino\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319247"
+        },
+        {
+            "citation":"GeoNames populated place 13319247: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319247"
+        },
+        {
+            "citation":"GeoNames populated place 13319247: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319247"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319247
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"020fe4d2779a366a4ae0dd271c191852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014862,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014862,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tambarino",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.63469,
+    15.19689,
+    -23.63469,
+    15.19689
+],
+  "geometry": {"coordinates":[-23.63469,15.19689],"type":"Point"}
+}

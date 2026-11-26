@@ -1,0 +1,72 @@
+{
+  "id": 9895014315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.019,16.80267,-25.019,16.80267",
+    "geom:latitude":16.80267,
+    "geom:longitude":-25.019,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13222221: name \"Curralhinho de Cascavelho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13222221"
+        },
+        {
+            "citation":"GeoNames populated place 13222221: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13222221"
+        },
+        {
+            "citation":"GeoNames populated place 13222221: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13222221"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670355 (S\u00e3o Vicente), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670355,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13222221
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ef0f4a0ebba19a080e28e29b9acb4f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014315,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":9895014315,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Curralhinho de Cascavelho",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.019,
+    16.80267,
+    -25.019,
+    16.80267
+],
+  "geometry": {"coordinates":[-25.019,16.80267],"type":"Point"}
+}

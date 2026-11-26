@@ -1,0 +1,72 @@
+{
+  "id": 9895014283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.18495,16.99336,-25.18495,16.99336",
+    "geom:latitude":16.99336,
+    "geom:longitude":-25.18495,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13216012: name \"Figueira Rasteira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13216012"
+        },
+        {
+            "citation":"GeoNames populated place 13216012: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13216012"
+        },
+        {
+            "citation":"GeoNames populated place 13216012: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13216012"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13216012
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b9b79e06a650fc531cd04822e1fa58aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014283,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014283,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Figueira Rasteira",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.18495,
+    16.99336,
+    -25.18495,
+    16.99336
+],
+  "geometry": {"coordinates":[-25.18495,16.99336],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895014845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.6472,15.19942,-23.6472,15.19942",
+    "geom:latitude":15.19942,
+    "geom:longitude":-23.6472,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319224: name \"\u00c1gua Boi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319224"
+        },
+        {
+            "citation":"GeoNames populated place 13319224: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319224"
+        },
+        {
+            "citation":"GeoNames populated place 13319224: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319224"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319224
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"2c7ef6b5760e908d2c959549e1954e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014845,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014845,
+    "wof:lastmodified":1795734980,
+    "wof:name":"\u00c1gua Boi",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.6472,
+    15.19942,
+    -23.6472,
+    15.19942
+],
+  "geometry": {"coordinates":[-23.6472,15.19942],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895014027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.10985,17.01363,-25.10985,17.01363",
+    "geom:latitude":17.01363,
+    "geom:longitude":-25.10985,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162987: name \"Casa de Aureleano\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162987"
+        },
+        {
+            "citation":"GeoNames populated place 13162987: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162987"
+        },
+        {
+            "citation":"GeoNames populated place 13162987: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162987"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162987
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9c77a69860284bf70d4241936afd605a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014027,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014027,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Casa de Aureleano",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.10985,
+    17.01363,
+    -25.10985,
+    17.01363
+],
+  "geometry": {"coordinates":[-25.10985,17.01363],"type":"Point"}
+}

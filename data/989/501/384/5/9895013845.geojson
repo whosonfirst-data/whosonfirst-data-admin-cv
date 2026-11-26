@@ -1,0 +1,72 @@
+{
+  "id": 9895013845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.20774,17.00004,-25.20774,17.00004",
+    "geom:latitude":17.00004,
+    "geom:longitude":-25.20774,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162617: name \"Ladeira de Seladinha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162617"
+        },
+        {
+            "citation":"GeoNames populated place 13162617: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162617"
+        },
+        {
+            "citation":"GeoNames populated place 13162617: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162617"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162617
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"c825817a2bc06259f49df33afeb99934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013845,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013845,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ladeira de Seladinha",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.20774,
+    17.00004,
+    -25.20774,
+    17.00004
+],
+  "geometry": {"coordinates":[-25.20774,17.00004],"type":"Point"}
+}

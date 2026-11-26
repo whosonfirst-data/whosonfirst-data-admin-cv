@@ -1,0 +1,73 @@
+{
+  "id": 9895015387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.64494,15.09914,-23.64494,15.09914",
+    "geom:latitude":15.09914,
+    "geom:longitude":-23.64494,
+    "gn:population":59,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398887: name \"Lem Jorge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398887"
+        },
+        {
+            "citation":"GeoNames populated place 13398887: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398887"
+        },
+        {
+            "citation":"GeoNames populated place 13398887: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398887"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398887
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"17cee00fa406715aad28bb5a073c6619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015387,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015387,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lem Jorge",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64494,
+    15.09914,
+    -23.64494,
+    15.09914
+],
+  "geometry": {"coordinates":[-23.64494,15.09914],"type":"Point"}
+}

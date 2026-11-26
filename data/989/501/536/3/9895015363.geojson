@@ -1,0 +1,72 @@
+{
+  "id": 9895015363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.55271,15.06184,-23.55271,15.06184",
+    "geom:latitude":15.06184,
+    "geom:longitude":-23.55271,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398855: name \"Ponta Mendes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398855"
+        },
+        {
+            "citation":"GeoNames populated place 13398855: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398855"
+        },
+        {
+            "citation":"GeoNames populated place 13398855: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398855"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670319 (S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670319,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398855
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"de2666be400f953ef8235ec663086969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015363,
+            "region_id":85670319
+        }
+    ],
+    "wof:id":9895015363,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ponta Mendes",
+    "wof:parent_id":85670319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.55271,
+    15.06184,
+    -23.55271,
+    15.06184
+],
+  "geometry": {"coordinates":[-23.55271,15.06184],"type":"Point"}
+}

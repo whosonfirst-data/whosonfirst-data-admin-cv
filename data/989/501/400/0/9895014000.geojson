@@ -1,0 +1,72 @@
+{
+  "id": 9895014000,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.11911,17.10205,-25.11911,17.10205",
+    "geom:latitude":17.10205,
+    "geom:longitude":-25.11911,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162932: name \"Matinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162932"
+        },
+        {
+            "citation":"GeoNames populated place 13162932: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162932"
+        },
+        {
+            "citation":"GeoNames populated place 13162932: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162932"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162932
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"c3f93fbe10fa94ccf4791e5c0dc9d36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014000,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014000,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Matinho",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.11911,
+    17.10205,
+    -25.11911,
+    17.10205
+],
+  "geometry": {"coordinates":[-25.11911,17.10205],"type":"Point"}
+}

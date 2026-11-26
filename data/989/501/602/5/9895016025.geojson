@@ -1,0 +1,73 @@
+{
+  "id": 9895016025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.53344,15.10151,-23.53344,15.10151",
+    "geom:latitude":15.10151,
+    "geom:longitude":-23.53344,
+    "gn:population":638,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645775: name \"Ribeira Seca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645775"
+        },
+        {
+            "citation":"GeoNames populated place 13645775: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645775"
+        },
+        {
+            "citation":"GeoNames populated place 13645775: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645775"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645775
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f92c70a5f88488ef95a0ef2377001501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016025,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895016025,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ribeira Seca",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.53344,
+    15.10151,
+    -23.53344,
+    15.10151
+],
+  "geometry": {"coordinates":[-23.53344,15.10151],"type":"Point"}
+}

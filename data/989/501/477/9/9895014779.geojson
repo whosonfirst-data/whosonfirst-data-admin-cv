@@ -1,0 +1,72 @@
+{
+  "id": 9895014779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.66522,15.15993,-23.66522,15.15993",
+    "geom:latitude":15.15993,
+    "geom:longitude":-23.66522,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319142: name \"P\u00f3tcheu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319142"
+        },
+        {
+            "citation":"GeoNames populated place 13319142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319142"
+        },
+        {
+            "citation":"GeoNames populated place 13319142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319142"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319142
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"a582e074d6df33d27b58bceafde1cfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014779,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014779,
+    "wof:lastmodified":1795734980,
+    "wof:name":"P\u00f3tcheu",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.66522,
+    15.15993,
+    -23.66522,
+    15.15993
+],
+  "geometry": {"coordinates":[-23.66522,15.15993],"type":"Point"}
+}

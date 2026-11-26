@@ -1,0 +1,73 @@
+{
+  "id": 9895014358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31687,16.65395,-24.31687,16.65395",
+    "geom:latitude":16.65395,
+    "geom:longitude":-24.31687,
+    "gn:population":152,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13251944: name \"Gar\u00e7oto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13251944"
+        },
+        {
+            "citation":"GeoNames populated place 13251944: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13251944"
+        },
+        {
+            "citation":"GeoNames populated place 13251944: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13251944"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670347 (Ribeira Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13251944
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b44f23ee171ffb95f7e4cc6df1729816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014358,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":9895014358,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Gar\u00e7oto",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31687,
+    16.65395,
+    -24.31687,
+    16.65395
+],
+  "geometry": {"coordinates":[-24.31687,16.65395],"type":"Point"}
+}

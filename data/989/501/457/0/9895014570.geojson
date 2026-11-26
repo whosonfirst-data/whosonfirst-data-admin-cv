@@ -1,0 +1,72 @@
+{
+  "id": 9895014570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.888,16.05066,-22.888,16.05066",
+    "geom:latitude":16.05066,
+    "geom:longitude":-22.888,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13306898: name \"Lomba de Carreira de Cavalo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13306898"
+        },
+        {
+            "citation":"GeoNames populated place 13306898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13306898"
+        },
+        {
+            "citation":"GeoNames populated place 13306898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13306898"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13306898
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6d643c69d9819e02ee12f0801a3e1a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014570,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014570,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lomba de Carreira de Cavalo",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.888,
+    16.05066,
+    -22.888,
+    16.05066
+],
+  "geometry": {"coordinates":[-22.888,16.05066],"type":"Point"}
+}

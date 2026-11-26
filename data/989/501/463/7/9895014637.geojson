@@ -1,0 +1,72 @@
+{
+  "id": 9895014637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.66642,15.15262,-23.66642,15.15262",
+    "geom:latitude":15.15262,
+    "geom:longitude":-23.66642,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318925: name \"Achada Piloto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318925"
+        },
+        {
+            "citation":"GeoNames populated place 13318925: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318925"
+        },
+        {
+            "citation":"GeoNames populated place 13318925: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318925"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318925
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"33909f096703ccfd1af719fad2f218ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014637,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014637,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Achada Piloto",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.66642,
+    15.15262,
+    -23.66642,
+    15.15262
+],
+  "geometry": {"coordinates":[-23.66642,15.15262],"type":"Point"}
+}

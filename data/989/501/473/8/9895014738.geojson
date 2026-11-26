@@ -1,0 +1,72 @@
+{
+  "id": 9895014738,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.62501,15.2056,-23.62501,15.2056",
+    "geom:latitude":15.2056,
+    "geom:longitude":-23.62501,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319086: name \"Tou\u00e7a\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319086"
+        },
+        {
+            "citation":"GeoNames populated place 13319086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319086"
+        },
+        {
+            "citation":"GeoNames populated place 13319086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319086"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319086
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"bb13f9588cd0d09a2a2ef147c32d1bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014738,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014738,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tou\u00e7a",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.62501,
+    15.2056,
+    -23.62501,
+    15.2056
+],
+  "geometry": {"coordinates":[-23.62501,15.2056],"type":"Point"}
+}

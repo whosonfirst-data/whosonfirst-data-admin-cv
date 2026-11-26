@@ -1,0 +1,72 @@
+{
+  "id": 9895015655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.56869,14.98958,-23.56869,14.98958",
+    "geom:latitude":14.98958,
+    "geom:longitude":-23.56869,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13403313: name \"Gomes d'\u00c1gua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13403313"
+        },
+        {
+            "citation":"GeoNames populated place 13403313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13403313"
+        },
+        {
+            "citation":"GeoNames populated place 13403313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13403313"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13403313
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"47bc05aa8371ed4b1219f53a0d5be303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015655,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015655,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Gomes d'\u00c1gua",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.56869,
+    14.98958,
+    -23.56869,
+    14.98958
+],
+  "geometry": {"coordinates":[-23.56869,14.98958],"type":"Point"}
+}

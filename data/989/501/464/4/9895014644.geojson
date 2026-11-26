@@ -1,0 +1,72 @@
+{
+  "id": 9895014644,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.72288,15.18497,-23.72288,15.18497",
+    "geom:latitude":15.18497,
+    "geom:longitude":-23.72288,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318935: name \"Bole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318935"
+        },
+        {
+            "citation":"GeoNames populated place 13318935: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318935"
+        },
+        {
+            "citation":"GeoNames populated place 13318935: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318935"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670299 (Tarrafal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670299,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318935
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"23a1604d73a5c7568341bedc02fe319e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014644,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":9895014644,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Bole",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.72288,
+    15.18497,
+    -23.72288,
+    15.18497
+],
+  "geometry": {"coordinates":[-23.72288,15.18497],"type":"Point"}
+}

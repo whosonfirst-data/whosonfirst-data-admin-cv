@@ -1,0 +1,73 @@
+{
+  "id": 9895014317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.07054,16.83103,-25.07054,16.83103",
+    "geom:latitude":16.83103,
+    "geom:longitude":-25.07054,
+    "gn:population":11,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13222252: name \"Santo Andr\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13222252"
+        },
+        {
+            "citation":"GeoNames populated place 13222252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13222252"
+        },
+        {
+            "citation":"GeoNames populated place 13222252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13222252"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670355 (S\u00e3o Vicente), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670355,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13222252
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ff12df13e336e0687bd85a146aa95246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014317,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":9895014317,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Santo Andr\u00e9",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.07054,
+    16.83103,
+    -25.07054,
+    16.83103
+],
+  "geometry": {"coordinates":[-25.07054,16.83103],"type":"Point"}
+}

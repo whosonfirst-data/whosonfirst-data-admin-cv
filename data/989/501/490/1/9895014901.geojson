@@ -1,0 +1,72 @@
+{
+  "id": 9895014901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.69941,15.17163,-23.69941,15.17163",
+    "geom:latitude":15.17163,
+    "geom:longitude":-23.69941,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319300: name \"Lapa Grande\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319300"
+        },
+        {
+            "citation":"GeoNames populated place 13319300: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319300"
+        },
+        {
+            "citation":"GeoNames populated place 13319300: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319300"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319300
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"649175ea8680fb2a5ed2192a1b3ec9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014901,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895014901,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lapa Grande",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.69941,
+    15.17163,
+    -23.69941,
+    15.17163
+],
+  "geometry": {"coordinates":[-23.69941,15.17163],"type":"Point"}
+}

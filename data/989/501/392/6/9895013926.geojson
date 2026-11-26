@@ -1,0 +1,73 @@
+{
+  "id": 9895013926,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.07156,17.18283,-25.07156,17.18283",
+    "geom:latitude":17.18283,
+    "geom:longitude":-25.07156,
+    "gn:population":230,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162792: name \"Santa B\u00e1rbara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162792"
+        },
+        {
+            "citation":"GeoNames populated place 13162792: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162792"
+        },
+        {
+            "citation":"GeoNames populated place 13162792: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162792"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162792
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"855a25556164961478ad9206a3d28e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013926,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013926,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Santa B\u00e1rbara",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.07156,
+    17.18283,
+    -25.07156,
+    17.18283
+],
+  "geometry": {"coordinates":[-25.07156,17.18283],"type":"Point"}
+}

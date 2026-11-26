@@ -1,0 +1,72 @@
+{
+  "id": 9895015532,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.53629,15.04684,-23.53629,15.04684",
+    "geom:latitude":15.04684,
+    "geom:longitude":-23.53629,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399073: name \"Sol\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399073"
+        },
+        {
+            "citation":"GeoNames populated place 13399073: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399073"
+        },
+        {
+            "citation":"GeoNames populated place 13399073: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399073"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399073
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"640bd465a636e3b97723c7d59d897a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015532,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015532,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Sol\u00e9",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.53629,
+    15.04684,
+    -23.53629,
+    15.04684
+],
+  "geometry": {"coordinates":[-23.53629,15.04684],"type":"Point"}
+}

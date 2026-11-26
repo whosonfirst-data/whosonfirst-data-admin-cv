@@ -1,0 +1,73 @@
+{
+  "id": 9895015864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.45656,14.95917,-24.45656,14.95917",
+    "geom:latitude":14.95917,
+    "geom:longitude":-24.45656,
+    "gn:population":338,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13490805: name \"Curral Grande\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13490805"
+        },
+        {
+            "citation":"GeoNames populated place 13490805: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13490805"
+        },
+        {
+            "citation":"GeoNames populated place 13490805: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13490805"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13490805
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"4e124673186f1a0567df5e4fbdcc5a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015864,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015864,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Curral Grande",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.45656,
+    14.95917,
+    -24.45656,
+    14.95917
+],
+  "geometry": {"coordinates":[-24.45656,14.95917],"type":"Point"}
+}

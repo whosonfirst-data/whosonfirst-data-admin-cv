@@ -1,0 +1,72 @@
+{
+  "id": 9895015967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.44924,14.89789,-24.44924,14.89789",
+    "geom:latitude":14.89789,
+    "geom:longitude":-24.44924,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13491026: name \"M\u00e3e Maria\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13491026"
+        },
+        {
+            "citation":"GeoNames populated place 13491026: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13491026"
+        },
+        {
+            "citation":"GeoNames populated place 13491026: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13491026"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13491026
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b51a9fbb3636db3c6d7eaf38f5721e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015967,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015967,
+    "wof:lastmodified":1795734980,
+    "wof:name":"M\u00e3e Maria",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.44924,
+    14.89789,
+    -24.44924,
+    14.89789
+],
+  "geometry": {"coordinates":[-24.44924,14.89789],"type":"Point"}
+}

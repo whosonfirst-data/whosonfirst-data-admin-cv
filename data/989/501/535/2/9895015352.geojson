@@ -1,0 +1,73 @@
+{
+  "id": 9895015352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.60658,15.10715,-23.60658,15.10715",
+    "geom:latitude":15.10715,
+    "geom:longitude":-23.60658,
+    "gn:population":153,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398843: name \"Mato Fortes\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398843"
+        },
+        {
+            "citation":"GeoNames populated place 13398843: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398843"
+        },
+        {
+            "citation":"GeoNames populated place 13398843: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398843"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398843
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6e4edcad0a4e0ad80d2e813154f2d154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015352,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895015352,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Mato Fortes",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.60658,
+    15.10715,
+    -23.60658,
+    15.10715
+],
+  "geometry": {"coordinates":[-23.60658,15.10715],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.68819,15.06977,-23.68819,15.06977",
+    "geom:latitude":15.06977,
+    "geom:longitude":-23.68819,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13371680: name \"Ch\u00e3 de Cruz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13371680"
+        },
+        {
+            "citation":"GeoNames populated place 13371680: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13371680"
+        },
+        {
+            "citation":"GeoNames populated place 13371680: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13371680"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13371680
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f24719b21ae9b4e790a6e01a62f905a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015073,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015073,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de Cruz",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.68819,
+    15.06977,
+    -23.68819,
+    15.06977
+],
+  "geometry": {"coordinates":[-23.68819,15.06977],"type":"Point"}
+}

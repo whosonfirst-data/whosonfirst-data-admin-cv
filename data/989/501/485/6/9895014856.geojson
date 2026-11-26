@@ -1,0 +1,72 @@
+{
+  "id": 9895014856,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.66476,15.19706,-23.66476,15.19706",
+    "geom:latitude":15.19706,
+    "geom:longitude":-23.66476,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319241: name \"Ch\u00e3o Riba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319241"
+        },
+        {
+            "citation":"GeoNames populated place 13319241: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319241"
+        },
+        {
+            "citation":"GeoNames populated place 13319241: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319241"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319241
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b31f207800cc8cf563b46b543f84b259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014856,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014856,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3o Riba",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.66476,
+    15.19706,
+    -23.66476,
+    15.19706
+],
+  "geometry": {"coordinates":[-23.66476,15.19706],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015952,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.41282,14.90262,-24.41282,14.90262",
+    "geom:latitude":14.90262,
+    "geom:longitude":-24.41282,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13490993: name \"Cutelo Capado\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13490993"
+        },
+        {
+            "citation":"GeoNames populated place 13490993: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13490993"
+        },
+        {
+            "citation":"GeoNames populated place 13490993: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13490993"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13490993
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e6c0b1d459450b7e5f0935b63e3b408a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015952,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015952,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cutelo Capado",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.41282,
+    14.90262,
+    -24.41282,
+    14.90262
+],
+  "geometry": {"coordinates":[-24.41282,14.90262],"type":"Point"}
+}

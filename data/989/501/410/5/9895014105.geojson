@@ -1,0 +1,72 @@
+{
+  "id": 9895014105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.03498,17.12983,-25.03498,17.12983",
+    "geom:latitude":17.12983,
+    "geom:longitude":-25.03498,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163146: name \"Lombo de Luzia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163146"
+        },
+        {
+            "citation":"GeoNames populated place 13163146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163146"
+        },
+        {
+            "citation":"GeoNames populated place 13163146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163146"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670369 (Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670369,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163146
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"728c5d6c8c9d50ef7159eaf4a1074133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014105,
+            "region_id":85670369
+        }
+    ],
+    "wof:id":9895014105,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lombo de Luzia",
+    "wof:parent_id":85670369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.03498,
+    17.12983,
+    -25.03498,
+    17.12983
+],
+  "geometry": {"coordinates":[-25.03498,17.12983],"type":"Point"}
+}

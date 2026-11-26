@@ -1,0 +1,73 @@
+{
+  "id": 9895014948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.64385,15.2023,-23.64385,15.2023",
+    "geom:latitude":15.2023,
+    "geom:longitude":-23.64385,
+    "gn:population":77,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319367: name \"Ch\u00e3 Baixo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319367"
+        },
+        {
+            "citation":"GeoNames populated place 13319367: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319367"
+        },
+        {
+            "citation":"GeoNames populated place 13319367: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319367"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319367
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b60ec7f6a2fe5058a95bb448fe800496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014948,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014948,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 Baixo",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64385,
+    15.2023,
+    -23.64385,
+    15.2023
+],
+  "geometry": {"coordinates":[-23.64385,15.2023],"type":"Point"}
+}

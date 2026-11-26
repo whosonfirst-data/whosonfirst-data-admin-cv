@@ -1,0 +1,72 @@
+{
+  "id": 9895014993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.57687,15.14537,-23.57687,15.14537",
+    "geom:latitude":15.14537,
+    "geom:longitude":-23.57687,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319438: name \"Ribeir\u00e3ozinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319438"
+        },
+        {
+            "citation":"GeoNames populated place 13319438: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319438"
+        },
+        {
+            "citation":"GeoNames populated place 13319438: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319438"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319438
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6d9d0bf41bf37e791e4b118adf706d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014993,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895014993,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ribeir\u00e3ozinho",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.57687,
+    15.14537,
+    -23.57687,
+    15.14537
+],
+  "geometry": {"coordinates":[-23.57687,15.14537],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895014163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.16023,17.00672,-25.16023,17.00672",
+    "geom:latitude":17.00672,
+    "geom:longitude":-25.16023,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163257: name \"Morro Lajedo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163257"
+        },
+        {
+            "citation":"GeoNames populated place 13163257: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163257"
+        },
+        {
+            "citation":"GeoNames populated place 13163257: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163257"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163257
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"16af45d9bca148919b3408eef4bc2271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014163,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014163,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Morro Lajedo",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.16023,
+    17.00672,
+    -25.16023,
+    17.00672
+],
+  "geometry": {"coordinates":[-25.16023,17.00672],"type":"Point"}
+}

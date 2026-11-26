@@ -1,0 +1,72 @@
+{
+  "id": 9895014701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.64877,15.13662,-23.64877,15.13662",
+    "geom:latitude":15.13662,
+    "geom:longitude":-23.64877,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319025: name \"Pau Cortado\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319025"
+        },
+        {
+            "citation":"GeoNames populated place 13319025: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319025"
+        },
+        {
+            "citation":"GeoNames populated place 13319025: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319025"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319025
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f64e421681ed724a2017815219ff8940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014701,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014701,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Pau Cortado",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64877,
+    15.13662,
+    -23.64877,
+    15.13662
+],
+  "geometry": {"coordinates":[-23.64877,15.13662],"type":"Point"}
+}

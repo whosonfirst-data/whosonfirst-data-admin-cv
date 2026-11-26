@@ -1,0 +1,73 @@
+{
+  "id": 9895013835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.07503,17.15326,-25.07503,17.15326",
+    "geom:latitude":17.15326,
+    "geom:longitude":-25.07503,
+    "gn:population":54,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162603: name \"Ribeirinha Curta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162603"
+        },
+        {
+            "citation":"GeoNames populated place 13162603: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162603"
+        },
+        {
+            "citation":"GeoNames populated place 13162603: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162603"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162603
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"5c556ba14553a8f9f1bdc03bda103ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013835,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013835,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ribeirinha Curta",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.07503,
+    17.15326,
+    -25.07503,
+    17.15326
+],
+  "geometry": {"coordinates":[-25.07503,17.15326],"type":"Point"}
+}

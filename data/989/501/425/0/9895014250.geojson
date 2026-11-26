@@ -1,0 +1,72 @@
+{
+  "id": 9895014250,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.98409,17.09822,-24.98409,17.09822",
+    "geom:latitude":17.09822,
+    "geom:longitude":-24.98409,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13204391: name \"Ch\u00e3 Daguinha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13204391"
+        },
+        {
+            "citation":"GeoNames populated place 13204391: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13204391"
+        },
+        {
+            "citation":"GeoNames populated place 13204391: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13204391"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670369 (Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670369,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13204391
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9c121b04e9e1663db9480f0dcc6555e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014250,
+            "region_id":85670369
+        }
+    ],
+    "wof:id":9895014250,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 Daguinha",
+    "wof:parent_id":85670369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.98409,
+    17.09822,
+    -24.98409,
+    17.09822
+],
+  "geometry": {"coordinates":[-24.98409,17.09822],"type":"Point"}
+}

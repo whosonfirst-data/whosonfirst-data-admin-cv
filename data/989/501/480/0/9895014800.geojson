@@ -1,0 +1,73 @@
+{
+  "id": 9895014800,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.64186,15.13948,-23.64186,15.13948",
+    "geom:latitude":15.13948,
+    "geom:longitude":-23.64186,
+    "gn:population":506,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319169: name \"Saltos de Cima\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319169"
+        },
+        {
+            "citation":"GeoNames populated place 13319169: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319169"
+        },
+        {
+            "citation":"GeoNames populated place 13319169: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319169"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319169
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b0e6c25258d3ce8e3becb71e1a3adf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014800,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014800,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Saltos de Cima",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64186,
+    15.13948,
+    -23.64186,
+    15.13948
+],
+  "geometry": {"coordinates":[-23.64186,15.13948],"type":"Point"}
+}

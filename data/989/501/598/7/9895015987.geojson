@@ -1,0 +1,73 @@
+{
+  "id": 9895015987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.33221,14.86299,-24.33221,14.86299",
+    "geom:latitude":14.86299,
+    "geom:longitude":-24.33221,
+    "gn:population":22,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13496695: name \"Monte Escora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13496695"
+        },
+        {
+            "citation":"GeoNames populated place 13496695: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13496695"
+        },
+        {
+            "citation":"GeoNames populated place 13496695: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13496695"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13496695
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b89a61e6facb68f757a355f95793677c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015987,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015987,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Monte Escora",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.33221,
+    14.86299,
+    -24.33221,
+    14.86299
+],
+  "geometry": {"coordinates":[-24.33221,14.86299],"type":"Point"}
+}

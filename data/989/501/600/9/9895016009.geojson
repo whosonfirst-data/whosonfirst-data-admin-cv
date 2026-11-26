@@ -1,0 +1,73 @@
+{
+  "id": 9895016009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.08463,17.17717,-25.08463,17.17717",
+    "geom:latitude":17.17717,
+    "geom:longitude":-25.08463,
+    "gn:population":384,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645314: name \"Tanque\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645314"
+        },
+        {
+            "citation":"GeoNames populated place 13645314: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645314"
+        },
+        {
+            "citation":"GeoNames populated place 13645314: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645314"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645314
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"efcb93fb9e9960a771acef4c2d4634f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016009,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895016009,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tanque",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.08463,
+    17.17717,
+    -25.08463,
+    17.17717
+],
+  "geometry": {"coordinates":[-25.08463,17.17717],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895014168,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.19703,17.06157,-25.19703,17.06157",
+    "geom:latitude":17.06157,
+    "geom:longitude":-25.19703,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163265: name \"Ch\u00e3 Jo\u00e3o Bento\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163265"
+        },
+        {
+            "citation":"GeoNames populated place 13163265: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163265"
+        },
+        {
+            "citation":"GeoNames populated place 13163265: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163265"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163265
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"486a8438300e691211cc49d8ef3084c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014168,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014168,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 Jo\u00e3o Bento",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.19703,
+    17.06157,
+    -25.19703,
+    17.06157
+],
+  "geometry": {"coordinates":[-25.19703,17.06157],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.49549,14.97107,-23.49549,14.97107",
+    "geom:latitude":14.97107,
+    "geom:longitude":-23.49549,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13403414: name \"Tanquinho Miranda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13403414"
+        },
+        {
+            "citation":"GeoNames populated place 13403414: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13403414"
+        },
+        {
+            "citation":"GeoNames populated place 13403414: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13403414"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670331 (Praia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13403414
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"4adc09cd2dad2866479ef1b60ac66236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015699,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":9895015699,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tanquinho Miranda",
+    "wof:parent_id":85670331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.49549,
+    14.97107,
+    -23.49549,
+    14.97107
+],
+  "geometry": {"coordinates":[-23.49549,14.97107],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895014122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.1132,17.12451,-25.1132,17.12451",
+    "geom:latitude":17.12451,
+    "geom:longitude":-25.1132,
+    "gn:population":150,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163189: name \"Pia de Cima\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163189"
+        },
+        {
+            "citation":"GeoNames populated place 13163189: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163189"
+        },
+        {
+            "citation":"GeoNames populated place 13163189: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163189"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163189
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e821406ce6fbec459eb9a997784ad1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014122,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014122,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Pia de Cima",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.1132,
+    17.12451,
+    -25.1132,
+    17.12451
+],
+  "geometry": {"coordinates":[-25.1132,17.12451],"type":"Point"}
+}

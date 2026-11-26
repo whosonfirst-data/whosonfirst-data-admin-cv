@@ -1,0 +1,72 @@
+{
+  "id": 9895013786,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.25639,17.11473,-25.25639,17.11473",
+    "geom:latitude":17.11473,
+    "geom:longitude":-25.25639,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13137519: name \"Banco de Areia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13137519"
+        },
+        {
+            "citation":"GeoNames populated place 13137519: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13137519"
+        },
+        {
+            "citation":"GeoNames populated place 13137519: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13137519"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13137519
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"acb3c071fccfc3b1ab2536ab43ef3c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013786,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013786,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Banco de Areia",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.25639,
+    17.11473,
+    -25.25639,
+    17.11473
+],
+  "geometry": {"coordinates":[-25.25639,17.11473],"type":"Point"}
+}

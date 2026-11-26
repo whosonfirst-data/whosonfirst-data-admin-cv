@@ -1,0 +1,72 @@
+{
+  "id": 9895014507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.86868,16.06013,-22.86868,16.06013",
+    "geom:latitude":16.06013,
+    "geom:longitude":-22.86868,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13293253: name \"Casa de Chica de Roque\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13293253"
+        },
+        {
+            "citation":"GeoNames populated place 13293253: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13293253"
+        },
+        {
+            "citation":"GeoNames populated place 13293253: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13293253"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13293253
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f361fa115b6a9dbea5e93798c8217432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014507,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014507,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Casa de Chica de Roque",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.86868,
+    16.06013,
+    -22.86868,
+    16.06013
+],
+  "geometry": {"coordinates":[-22.86868,16.06013],"type":"Point"}
+}

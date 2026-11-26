@@ -1,0 +1,72 @@
+{
+  "id": 9895014231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.12698,17.03726,-25.12698,17.03726",
+    "geom:latitude":17.03726,
+    "geom:longitude":-25.12698,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163388: name \"Tampa de Baixo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163388"
+        },
+        {
+            "citation":"GeoNames populated place 13163388: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163388"
+        },
+        {
+            "citation":"GeoNames populated place 13163388: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163388"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163388
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"15963b2b00e1f94ccf0e8ec4450a6c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014231,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014231,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tampa de Baixo",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.12698,
+    17.03726,
+    -25.12698,
+    17.03726
+],
+  "geometry": {"coordinates":[-25.12698,17.03726],"type":"Point"}
+}

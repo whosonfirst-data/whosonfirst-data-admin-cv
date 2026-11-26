@@ -1,0 +1,72 @@
+{
+  "id": 9895015076,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.69593,15.06895,-23.69593,15.06895",
+    "geom:latitude":15.06895,
+    "geom:longitude":-23.69593,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13371683: name \"Ch\u00e3o Semedo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13371683"
+        },
+        {
+            "citation":"GeoNames populated place 13371683: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13371683"
+        },
+        {
+            "citation":"GeoNames populated place 13371683: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13371683"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13371683
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"c7d911999e59868f5a16ec2b3a2f2e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015076,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015076,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3o Semedo",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.69593,
+    15.06895,
+    -23.69593,
+    15.06895
+],
+  "geometry": {"coordinates":[-23.69593,15.06895],"type":"Point"}
+}

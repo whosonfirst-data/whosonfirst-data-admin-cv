@@ -1,0 +1,72 @@
+{
+  "id": 9895014643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.62931,15.20096,-23.62931,15.20096",
+    "geom:latitude":15.20096,
+    "geom:longitude":-23.62931,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318934: name \"Purgueira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318934"
+        },
+        {
+            "citation":"GeoNames populated place 13318934: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318934"
+        },
+        {
+            "citation":"GeoNames populated place 13318934: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318934"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318934
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e6b66121b9fb7f2f3338227d141af596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014643,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014643,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Purgueira",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.62931,
+    15.20096,
+    -23.62931,
+    15.20096
+],
+  "geometry": {"coordinates":[-23.62931,15.20096],"type":"Point"}
+}

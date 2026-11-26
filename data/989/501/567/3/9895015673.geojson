@@ -1,0 +1,72 @@
+{
+  "id": 9895015673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.55222,14.97868,-23.55222,14.97868",
+    "geom:latitude":14.97868,
+    "geom:longitude":-23.55222,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13403352: name \"Cambujana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13403352"
+        },
+        {
+            "citation":"GeoNames populated place 13403352: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13403352"
+        },
+        {
+            "citation":"GeoNames populated place 13403352: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13403352"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13403352
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"c2d059122aa1f1e454740d0038acc360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015673,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015673,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cambujana",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.55222,
+    14.97868,
+    -23.55222,
+    14.97868
+],
+  "geometry": {"coordinates":[-23.55222,14.97868],"type":"Point"}
+}

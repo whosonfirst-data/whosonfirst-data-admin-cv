@@ -1,0 +1,72 @@
+{
+  "id": 9895014421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31409,16.61182,-24.31409,16.61182",
+    "geom:latitude":16.61182,
+    "geom:longitude":-24.31409,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253974: name \"Palso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253974"
+        },
+        {
+            "citation":"GeoNames populated place 13253974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253974"
+        },
+        {
+            "citation":"GeoNames populated place 13253974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253974"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670347 (Ribeira Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253974
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"a5581fc12c6b146433e01c9e6e113d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014421,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":9895014421,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Palso",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31409,
+    16.61182,
+    -24.31409,
+    16.61182
+],
+  "geometry": {"coordinates":[-24.31409,16.61182],"type":"Point"}
+}

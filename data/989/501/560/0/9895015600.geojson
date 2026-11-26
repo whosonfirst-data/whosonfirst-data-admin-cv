@@ -1,0 +1,72 @@
+{
+  "id": 9895015600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.59705,15.08176,-23.59705,15.08176",
+    "geom:latitude":15.08176,
+    "geom:longitude":-23.59705,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399163: name \"Ch\u00e3o de Lagoa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399163"
+        },
+        {
+            "citation":"GeoNames populated place 13399163: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399163"
+        },
+        {
+            "citation":"GeoNames populated place 13399163: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399163"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670315 (S\u00e3o Salvador do Mundo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670315,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399163
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"985fd627df821fa9938785dbbb764868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015600,
+            "region_id":85670315
+        }
+    ],
+    "wof:id":9895015600,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3o de Lagoa",
+    "wof:parent_id":85670315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.59705,
+    15.08176,
+    -23.59705,
+    15.08176
+],
+  "geometry": {"coordinates":[-23.59705,15.08176],"type":"Point"}
+}

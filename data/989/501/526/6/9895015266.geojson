@@ -1,0 +1,73 @@
+{
+  "id": 9895015266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.6101,15.08327,-23.6101,15.08327",
+    "geom:latitude":15.08327,
+    "geom:longitude":-23.6101,
+    "gn:population":337,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398733: name \"Boca Larga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398733"
+        },
+        {
+            "citation":"GeoNames populated place 13398733: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398733"
+        },
+        {
+            "citation":"GeoNames populated place 13398733: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398733"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670315 (S\u00e3o Salvador do Mundo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670315,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398733
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"67fef1ff52d2318e3417e67f4fa2d750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015266,
+            "region_id":85670315
+        }
+    ],
+    "wof:id":9895015266,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Boca Larga",
+    "wof:parent_id":85670315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.6101,
+    15.08327,
+    -23.6101,
+    15.08327
+],
+  "geometry": {"coordinates":[-23.6101,15.08327],"type":"Point"}
+}

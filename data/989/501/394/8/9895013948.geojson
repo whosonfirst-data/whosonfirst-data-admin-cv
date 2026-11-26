@@ -1,0 +1,72 @@
+{
+  "id": 9895013948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.07041,17.13003,-25.07041,17.13003",
+    "geom:latitude":17.13003,
+    "geom:longitude":-25.07041,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162834: name \"Losn\u00e3\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162834"
+        },
+        {
+            "citation":"GeoNames populated place 13162834: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162834"
+        },
+        {
+            "citation":"GeoNames populated place 13162834: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162834"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162834
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"87570be833777b497ed7d04d3df010b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013948,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013948,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Losn\u00e3",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.07041,
+    17.13003,
+    -25.07041,
+    17.13003
+],
+  "geometry": {"coordinates":[-25.07041,17.13003],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895013968,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.0981,17.0803,-25.0981,17.0803",
+    "geom:latitude":17.0803,
+    "geom:longitude":-25.0981,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162864: name \"Morro de Sangue\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162864"
+        },
+        {
+            "citation":"GeoNames populated place 13162864: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162864"
+        },
+        {
+            "citation":"GeoNames populated place 13162864: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162864"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162864
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"602759202766b4c6af18a0358df6aeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013968,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013968,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Morro de Sangue",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.0981,
+    17.0803,
+    -25.0981,
+    17.0803
+],
+  "geometry": {"coordinates":[-25.0981,17.0803],"type":"Point"}
+}
