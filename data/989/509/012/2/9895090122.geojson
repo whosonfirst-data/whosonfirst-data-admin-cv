@@ -1,0 +1,73 @@
+{
+  "id": 9895090122,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.97354,16.75408,-22.97354,16.75408",
+    "geom:latitude":16.75408,
+    "geom:longitude":-22.97354,
+    "gn:population":33,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13255379: name \"Vila Verde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13255379"
+        },
+        {
+            "citation":"GeoNames populated place 13255379: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13255379"
+        },
+        {
+            "citation":"GeoNames populated place 13255379: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13255379"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670341 (Sal), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670341,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13255379
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b7fba0f190933fc4f69b2717a7d424bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090122,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":9895090122,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Vila Verde",
+    "wof:parent_id":85670341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.97354,
+    16.75408,
+    -22.97354,
+    16.75408
+],
+  "geometry": {"coordinates":[-22.97354,16.75408],"type":"Point"}
+}

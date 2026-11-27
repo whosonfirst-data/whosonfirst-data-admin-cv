@@ -1,0 +1,73 @@
+{
+  "id": 9895090133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.66034,15.24754,-23.66034,15.24754",
+    "geom:latitude":15.24754,
+    "geom:longitude":-23.66034,
+    "gn:population":1242,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318929: name \"Achada Tenda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318929"
+        },
+        {
+            "citation":"GeoNames populated place 13318929: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318929"
+        },
+        {
+            "citation":"GeoNames populated place 13318929: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318929"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670299 (Tarrafal), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670299,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318929
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"440af443255a392b1b5a43fea1dfab91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090133,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":9895090133,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Achada Tenda",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.66034,
+    15.24754,
+    -23.66034,
+    15.24754
+],
+  "geometry": {"coordinates":[-23.66034,15.24754],"type":"Point"}
+}

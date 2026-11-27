@@ -1,0 +1,72 @@
+{
+  "id": 9895090154,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.52573,14.90692,-23.52573,14.90692",
+    "geom:latitude":14.90692,
+    "geom:longitude":-23.52573,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13403286: name \"Achada de Baixo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13403286"
+        },
+        {
+            "citation":"GeoNames populated place 13403286: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13403286"
+        },
+        {
+            "citation":"GeoNames populated place 13403286: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13403286"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670331 (Praia), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13403286
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"5fab792a46993d7707d4f85e788e7799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090154,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":9895090154,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Achada de Baixo",
+    "wof:parent_id":85670331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.52573,
+    14.90692,
+    -23.52573,
+    14.90692
+],
+  "geometry": {"coordinates":[-23.52573,14.90692],"type":"Point"}
+}

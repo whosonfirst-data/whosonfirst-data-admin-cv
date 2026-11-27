@@ -1,0 +1,72 @@
+{
+  "id": 9895090129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.11292,15.14625,-23.11292,15.14625",
+    "geom:latitude":15.14625,
+    "geom:longitude":-23.11292,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13306984: name \"Pedrinha da Areia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13306984"
+        },
+        {
+            "citation":"GeoNames populated place 13306984: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13306984"
+        },
+        {
+            "citation":"GeoNames populated place 13306984: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13306984"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670335 (Maio), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670335,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13306984
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f328fda414f5b92c0bcec298439f9bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090129,
+            "region_id":85670335
+        }
+    ],
+    "wof:id":9895090129,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Pedrinha da Areia",
+    "wof:parent_id":85670335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.11292,
+    15.14625,
+    -23.11292,
+    15.14625
+],
+  "geometry": {"coordinates":[-23.11292,15.14625],"type":"Point"}
+}
