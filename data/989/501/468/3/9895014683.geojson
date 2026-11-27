@@ -1,0 +1,72 @@
+{
+  "id": 9895014683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.65141,15.13993,-23.65141,15.13993",
+    "geom:latitude":15.13993,
+    "geom:longitude":-23.65141,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13318990: name \"Fonte Nova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13318990"
+        },
+        {
+            "citation":"GeoNames populated place 13318990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13318990"
+        },
+        {
+            "citation":"GeoNames populated place 13318990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13318990"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13318990
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3b5faad923b7e7c54b9a60f2ea656282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014683,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014683,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Fonte Nova",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.65141,
+    15.13993,
+    -23.65141,
+    15.13993
+],
+  "geometry": {"coordinates":[-23.65141,15.13993],"type":"Point"}
+}

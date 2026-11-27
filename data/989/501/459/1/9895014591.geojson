@@ -1,0 +1,72 @@
+{
+  "id": 9895014591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.20802,15.18514,-23.20802,15.18514",
+    "geom:latitude":15.18514,
+    "geom:longitude":-23.20802,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13307035: name \"Perdegal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13307035"
+        },
+        {
+            "citation":"GeoNames populated place 13307035: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13307035"
+        },
+        {
+            "citation":"GeoNames populated place 13307035: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13307035"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670335 (Maio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670335,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13307035
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3499beb36fc0a46966ca6b8351f781fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014591,
+            "region_id":85670335
+        }
+    ],
+    "wof:id":9895014591,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Perdegal",
+    "wof:parent_id":85670335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.20802,
+    15.18514,
+    -23.20802,
+    15.18514
+],
+  "geometry": {"coordinates":[-23.20802,15.18514],"type":"Point"}
+}

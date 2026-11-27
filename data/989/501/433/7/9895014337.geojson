@@ -1,0 +1,72 @@
+{
+  "id": 9895014337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.94562,16.86837,-24.94562,16.86837",
+    "geom:latitude":16.86837,
+    "geom:longitude":-24.94562,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13233788: name \"Morb\u00ea\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13233788"
+        },
+        {
+            "citation":"GeoNames populated place 13233788: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13233788"
+        },
+        {
+            "citation":"GeoNames populated place 13233788: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13233788"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670355 (S\u00e3o Vicente), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670355,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13233788
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b74ee83b71eb5e914a601c922df01c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014337,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":9895014337,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Morb\u00ea",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.94562,
+    16.86837,
+    -24.94562,
+    16.86837
+],
+  "geometry": {"coordinates":[-24.94562,16.86837],"type":"Point"}
+}

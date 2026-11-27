@@ -1,0 +1,73 @@
+{
+  "id": 9895013918,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.16057,17.1124,-25.16057,17.1124",
+    "geom:latitude":17.1124,
+    "geom:longitude":-25.16057,
+    "gn:population":13,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162780: name \"Ch\u00e3 de Bento\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162780"
+        },
+        {
+            "citation":"GeoNames populated place 13162780: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162780"
+        },
+        {
+            "citation":"GeoNames populated place 13162780: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162780"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162780
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"77182b32cb9c3936fbb1fd1a1721801d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013918,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013918,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de Bento",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.16057,
+    17.1124,
+    -25.16057,
+    17.1124
+],
+  "geometry": {"coordinates":[-25.16057,17.1124],"type":"Point"}
+}

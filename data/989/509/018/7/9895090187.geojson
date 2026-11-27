@@ -1,0 +1,73 @@
+{
+  "id": 9895090187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.90311,16.60249,-22.90311,16.60249",
+    "geom:latitude":16.60249,
+    "geom:longitude":-22.90311,
+    "gn:population":3198,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645899: name \"S\u00e3o Paulo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645899"
+        },
+        {
+            "citation":"GeoNames populated place 13645899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645899"
+        },
+        {
+            "citation":"GeoNames populated place 13645899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645899"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670341 (Sal), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670341,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645899
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1e4d9f94cea68f04c4018a73431c9c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090187,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":9895090187,
+    "wof:lastmodified":1795746149,
+    "wof:name":"S\u00e3o Paulo",
+    "wof:parent_id":85670341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.90311,
+    16.60249,
+    -22.90311,
+    16.60249
+],
+  "geometry": {"coordinates":[-22.90311,16.60249],"type":"Point"}
+}

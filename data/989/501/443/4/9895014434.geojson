@@ -1,0 +1,72 @@
+{
+  "id": 9895014434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.15761,16.60803,-24.15761,16.60803",
+    "geom:latitude":16.60803,
+    "geom:longitude":-24.15761,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13254180: name \"Paiol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13254180"
+        },
+        {
+            "citation":"GeoNames populated place 13254180: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13254180"
+        },
+        {
+            "citation":"GeoNames populated place 13254180: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13254180"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670347 (Ribeira Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13254180
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e83dd7d78063b5f6708eccc1d8c7b076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014434,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":9895014434,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Paiol",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.15761,
+    16.60803,
+    -24.15761,
+    16.60803
+],
+  "geometry": {"coordinates":[-24.15761,16.60803],"type":"Point"}
+}

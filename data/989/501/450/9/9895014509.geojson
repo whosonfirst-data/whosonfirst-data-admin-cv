@@ -1,0 +1,72 @@
+{
+  "id": 9895014509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.81437,16.05662,-22.81437,16.05662",
+    "geom:latitude":16.05662,
+    "geom:longitude":-22.81437,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13293278: name \"Romano\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13293278"
+        },
+        {
+            "citation":"GeoNames populated place 13293278: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13293278"
+        },
+        {
+            "citation":"GeoNames populated place 13293278: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13293278"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13293278
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"4a9c5201ec971b3e4d3108561248be90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014509,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014509,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Romano",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.81437,
+    16.05662,
+    -22.81437,
+    16.05662
+],
+  "geometry": {"coordinates":[-22.81437,16.05662],"type":"Point"}
+}

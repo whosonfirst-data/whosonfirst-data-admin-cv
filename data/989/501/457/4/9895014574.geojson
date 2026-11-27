@@ -1,0 +1,72 @@
+{
+  "id": 9895014574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.22834,15.18568,-23.22834,15.18568",
+    "geom:latitude":15.18568,
+    "geom:longitude":-23.22834,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13306937: name \"\u00c1gua Doce\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13306937"
+        },
+        {
+            "citation":"GeoNames populated place 13306937: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13306937"
+        },
+        {
+            "citation":"GeoNames populated place 13306937: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13306937"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670335 (Maio), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670335,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13306937
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3fb5d927ce37bff2165c7972c28ff61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014574,
+            "region_id":85670335
+        }
+    ],
+    "wof:id":9895014574,
+    "wof:lastmodified":1795734980,
+    "wof:name":"\u00c1gua Doce",
+    "wof:parent_id":85670335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.22834,
+    15.18568,
+    -23.22834,
+    15.18568
+],
+  "geometry": {"coordinates":[-23.22834,15.18568],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015562,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.58372,15.10069,-23.58372,15.10069",
+    "geom:latitude":15.10069,
+    "geom:longitude":-23.58372,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399112: name \"Cutelo de Matinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399112"
+        },
+        {
+            "citation":"GeoNames populated place 13399112: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399112"
+        },
+        {
+            "citation":"GeoNames populated place 13399112: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399112"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399112
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3f6d588747a7b22a90c4964c0f361e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015562,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895015562,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cutelo de Matinho",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.58372,
+    15.10069,
+    -23.58372,
+    15.10069
+],
+  "geometry": {"coordinates":[-23.58372,15.10069],"type":"Point"}
+}

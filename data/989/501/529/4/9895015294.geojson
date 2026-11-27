@@ -1,0 +1,72 @@
+{
+  "id": 9895015294,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.62376,15.02555,-23.62376,15.02555",
+    "geom:latitude":15.02555,
+    "geom:longitude":-23.62376,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398765: name \"Hortel\u00e3o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398765"
+        },
+        {
+            "citation":"GeoNames populated place 13398765: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398765"
+        },
+        {
+            "citation":"GeoNames populated place 13398765: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398765"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670327 (Ribeira Grande de Santiago), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398765
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"240c3f9a8d460328969ee557267ecf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015294,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":9895015294,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Hortel\u00e3o",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.62376,
+    15.02555,
+    -23.62376,
+    15.02555
+],
+  "geometry": {"coordinates":[-23.62376,15.02555],"type":"Point"}
+}

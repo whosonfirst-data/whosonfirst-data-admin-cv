@@ -1,0 +1,72 @@
+{
+  "id": 9895014155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.17853,17.00391,-25.17853,17.00391",
+    "geom:latitude":17.00391,
+    "geom:longitude":-25.17853,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163243: name \"Lombo de Pedra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163243"
+        },
+        {
+            "citation":"GeoNames populated place 13163243: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163243"
+        },
+        {
+            "citation":"GeoNames populated place 13163243: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163243"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163243
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"bde6a4f4683f26802ea37c0627380047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014155,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014155,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lombo de Pedra",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.17853,
+    17.00391,
+    -25.17853,
+    17.00391
+],
+  "geometry": {"coordinates":[-25.17853,17.00391],"type":"Point"}
+}

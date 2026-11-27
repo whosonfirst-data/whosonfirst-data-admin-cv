@@ -1,0 +1,72 @@
+{
+  "id": 9895014228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.1126,17.14545,-25.1126,17.14545",
+    "geom:latitude":17.14545,
+    "geom:longitude":-25.1126,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163382: name \"Fonte de Cercado\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163382"
+        },
+        {
+            "citation":"GeoNames populated place 13163382: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163382"
+        },
+        {
+            "citation":"GeoNames populated place 13163382: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163382"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163382
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"862fa277f348ae47a89cdddb51ff0154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014228,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014228,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Fonte de Cercado",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.1126,
+    17.14545,
+    -25.1126,
+    17.14545
+],
+  "geometry": {"coordinates":[-25.1126,17.14545],"type":"Point"}
+}

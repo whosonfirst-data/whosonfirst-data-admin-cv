@@ -1,0 +1,72 @@
+{
+  "id": 9895014222,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.155,17.12535,-25.155,17.12535",
+    "geom:latitude":17.12535,
+    "geom:longitude":-25.155,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163369: name \"Ponta de Vento\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163369"
+        },
+        {
+            "citation":"GeoNames populated place 13163369: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163369"
+        },
+        {
+            "citation":"GeoNames populated place 13163369: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163369"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163369
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1cc2cd950b1fc51ca20fbd6f68fa98cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014222,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014222,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ponta de Vento",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.155,
+    17.12535,
+    -25.155,
+    17.12535
+],
+  "geometry": {"coordinates":[-25.155,17.12535],"type":"Point"}
+}

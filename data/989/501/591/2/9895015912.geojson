@@ -1,0 +1,73 @@
+{
+  "id": 9895015912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.48925,14.89647,-24.48925,14.89647",
+    "geom:latitude":14.89647,
+    "geom:longitude":-24.48925,
+    "gn:population":1423,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13490922: name \"Santa Filomena\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13490922"
+        },
+        {
+            "citation":"GeoNames populated place 13490922: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13490922"
+        },
+        {
+            "citation":"GeoNames populated place 13490922: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13490922"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13490922
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"85d4e338a138e75bc9e14cc3259b3829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015912,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015912,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Santa Filomena",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.48925,
+    14.89647,
+    -24.48925,
+    14.89647
+],
+  "geometry": {"coordinates":[-24.48925,14.89647],"type":"Point"}
+}

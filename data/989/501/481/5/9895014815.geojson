@@ -1,0 +1,73 @@
+{
+  "id": 9895014815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.69006,15.20364,-23.69006,15.20364",
+    "geom:latitude":15.20364,
+    "geom:longitude":-23.69006,
+    "gn:population":3,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319189: name \"Mato Galo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319189"
+        },
+        {
+            "citation":"GeoNames populated place 13319189: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319189"
+        },
+        {
+            "citation":"GeoNames populated place 13319189: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319189"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670299 (Tarrafal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670299,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319189
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8b8abbc19a94367db0ce697ad9cd3dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014815,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":9895014815,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Mato Galo",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.69006,
+    15.20364,
+    -23.69006,
+    15.20364
+],
+  "geometry": {"coordinates":[-23.69006,15.20364],"type":"Point"}
+}

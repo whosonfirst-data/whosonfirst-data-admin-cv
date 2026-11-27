@@ -1,0 +1,72 @@
+{
+  "id": 9895014451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.97575,16.7164,-22.97575,16.7164",
+    "geom:latitude":16.7164,
+    "geom:longitude":-22.97575,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13255788: name \"Joaquim Petinha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13255788"
+        },
+        {
+            "citation":"GeoNames populated place 13255788: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13255788"
+        },
+        {
+            "citation":"GeoNames populated place 13255788: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13255788"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670341 (Sal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670341,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13255788
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"52911ea34a04bc07e0c8fd4236adf4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014451,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":9895014451,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Joaquim Petinha",
+    "wof:parent_id":85670341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.97575,
+    16.7164,
+    -22.97575,
+    16.7164
+],
+  "geometry": {"coordinates":[-22.97575,16.7164],"type":"Point"}
+}

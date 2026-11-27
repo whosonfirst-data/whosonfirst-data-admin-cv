@@ -1,0 +1,72 @@
+{
+  "id": 9895015809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.69937,14.87995,-24.69937,14.87995",
+    "geom:latitude":14.87995,
+    "geom:longitude":-24.69937,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13480667: name \"Lugarinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13480667"
+        },
+        {
+            "citation":"GeoNames populated place 13480667: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13480667"
+        },
+        {
+            "citation":"GeoNames populated place 13480667: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13480667"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670279 (Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670279,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13480667
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"11e919769a01af9d0f6005f533a424b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015809,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":9895015809,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lugarinho",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.69937,
+    14.87995,
+    -24.69937,
+    14.87995
+],
+  "geometry": {"coordinates":[-24.69937,14.87995],"type":"Point"}
+}

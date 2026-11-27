@@ -1,0 +1,72 @@
+{
+  "id": 9895090177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.30954,14.84834,-24.30954,14.84834",
+    "geom:latitude":14.84834,
+    "geom:longitude":-24.30954,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13496779: name \"Curral de Guincho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13496779"
+        },
+        {
+            "citation":"GeoNames populated place 13496779: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13496779"
+        },
+        {
+            "citation":"GeoNames populated place 13496779: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13496779"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13496779
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"cb3b8869416e8bfb6be150d6e73e20c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090177,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895090177,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Curral de Guincho",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.30954,
+    14.84834,
+    -24.30954,
+    14.84834
+],
+  "geometry": {"coordinates":[-24.30954,14.84834],"type":"Point"}
+}

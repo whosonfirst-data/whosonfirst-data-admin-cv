@@ -1,0 +1,72 @@
+{
+  "id": 9895015185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.67364,15.097,-23.67364,15.097",
+    "geom:latitude":15.097,
+    "geom:longitude":-23.67364,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398619: name \"Cov\u00e3o da Ribeira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398619"
+        },
+        {
+            "citation":"GeoNames populated place 13398619: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398619"
+        },
+        {
+            "citation":"GeoNames populated place 13398619: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398619"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398619
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9a6db71cd7dcf1ebad1299844d691020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015185,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015185,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cov\u00e3o da Ribeira",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.67364,
+    15.097,
+    -23.67364,
+    15.097
+],
+  "geometry": {"coordinates":[-23.67364,15.097],"type":"Point"}
+}

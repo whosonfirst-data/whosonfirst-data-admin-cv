@@ -1,0 +1,72 @@
+{
+  "id": 9895014224,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.15054,17.14572,-25.15054,17.14572",
+    "geom:latitude":17.14572,
+    "geom:longitude":-25.15054,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163377: name \"Cabo do Mocha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163377"
+        },
+        {
+            "citation":"GeoNames populated place 13163377: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163377"
+        },
+        {
+            "citation":"GeoNames populated place 13163377: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163377"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163377
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6e488b091967574904a28bad48e22472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014224,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014224,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cabo do Mocha",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.15054,
+    17.14572,
+    -25.15054,
+    17.14572
+],
+  "geometry": {"coordinates":[-25.15054,17.14572],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895090180,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.53208,15.1387,-23.53208,15.1387",
+    "geom:latitude":15.1387,
+    "geom:longitude":-23.53208,
+    "gn:population":164,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645779: name \"Porto Acima\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645779"
+        },
+        {
+            "citation":"GeoNames populated place 13645779: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645779"
+        },
+        {
+            "citation":"GeoNames populated place 13645779: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645779"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645779
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"abe5b40834cb462b3567cc52ba3154a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090180,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895090180,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Porto Acima",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.53208,
+    15.1387,
+    -23.53208,
+    15.1387
+],
+  "geometry": {"coordinates":[-23.53208,15.1387],"type":"Point"}
+}

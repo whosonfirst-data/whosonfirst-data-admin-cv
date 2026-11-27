@@ -1,0 +1,72 @@
+{
+  "id": 9895014023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.03297,17.13667,-25.03297,17.13667",
+    "geom:latitude":17.13667,
+    "geom:longitude":-25.03297,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162977: name \"C\u00e3o de Vinha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162977"
+        },
+        {
+            "citation":"GeoNames populated place 13162977: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162977"
+        },
+        {
+            "citation":"GeoNames populated place 13162977: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162977"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670369 (Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670369,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162977
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f24ffeefdb034c29416b8adb1860bd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014023,
+            "region_id":85670369
+        }
+    ],
+    "wof:id":9895014023,
+    "wof:lastmodified":1795734980,
+    "wof:name":"C\u00e3o de Vinha",
+    "wof:parent_id":85670369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.03297,
+    17.13667,
+    -25.03297,
+    17.13667
+],
+  "geometry": {"coordinates":[-25.03297,17.13667],"type":"Point"}
+}

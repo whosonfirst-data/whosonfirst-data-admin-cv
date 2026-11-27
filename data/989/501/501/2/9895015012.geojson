@@ -1,0 +1,72 @@
+{
+  "id": 9895015012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.61947,15.14443,-23.61947,15.14443",
+    "geom:latitude":15.14443,
+    "geom:longitude":-23.61947,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319465: name \"Montinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319465"
+        },
+        {
+            "citation":"GeoNames populated place 13319465: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319465"
+        },
+        {
+            "citation":"GeoNames populated place 13319465: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319465"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319465
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1a3ab42ec7b42b464830c5777014d70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015012,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895015012,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Montinho",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.61947,
+    15.14443,
+    -23.61947,
+    15.14443
+],
+  "geometry": {"coordinates":[-23.61947,15.14443],"type":"Point"}
+}

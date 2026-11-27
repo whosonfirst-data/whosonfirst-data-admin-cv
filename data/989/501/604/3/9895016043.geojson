@@ -1,0 +1,73 @@
+{
+  "id": 9895016043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.30712,14.88298,-24.30712,14.88298",
+    "geom:latitude":14.88298,
+    "geom:longitude":-24.30712,
+    "gn:population":95,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645889: name \"Baluarte\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645889"
+        },
+        {
+            "citation":"GeoNames populated place 13645889: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645889"
+        },
+        {
+            "citation":"GeoNames populated place 13645889: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645889"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645889
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"99c11257e8c0ca8c76aab007e6c05f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016043,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895016043,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Baluarte",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.30712,
+    14.88298,
+    -24.30712,
+    14.88298
+],
+  "geometry": {"coordinates":[-24.30712,14.88298],"type":"Point"}
+}

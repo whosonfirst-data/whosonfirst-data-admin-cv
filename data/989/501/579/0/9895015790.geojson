@@ -1,0 +1,72 @@
+{
+  "id": 9895015790,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.6419,14.97631,-23.6419,14.97631",
+    "geom:latitude":14.97631,
+    "geom:longitude":-23.6419,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13459472: name \"Laranjeiro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13459472"
+        },
+        {
+            "citation":"GeoNames populated place 13459472: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13459472"
+        },
+        {
+            "citation":"GeoNames populated place 13459472: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13459472"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670327 (Ribeira Grande de Santiago), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13459472
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"4c2a1c1877e33d5ee4282a9b4c722447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015790,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":9895015790,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Laranjeiro",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.6419,
+    14.97631,
+    -23.6419,
+    14.97631
+],
+  "geometry": {"coordinates":[-23.6419,14.97631],"type":"Point"}
+}

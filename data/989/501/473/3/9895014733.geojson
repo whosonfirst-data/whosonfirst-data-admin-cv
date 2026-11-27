@@ -1,0 +1,73 @@
+{
+  "id": 9895014733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.63336,15.20604,-23.63336,15.20604",
+    "geom:latitude":15.20604,
+    "geom:longitude":-23.63336,
+    "gn:population":32,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319079: name \"Lem Cardoso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319079"
+        },
+        {
+            "citation":"GeoNames populated place 13319079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319079"
+        },
+        {
+            "citation":"GeoNames populated place 13319079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319079"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319079
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b95273f9a986c7b4b11953512ca59bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014733,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014733,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lem Cardoso",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.63336,
+    15.20604,
+    -23.63336,
+    15.20604
+],
+  "geometry": {"coordinates":[-23.63336,15.20604],"type":"Point"}
+}

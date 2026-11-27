@@ -1,0 +1,72 @@
+{
+  "id": 9895014302,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.21126,16.99497,-25.21126,16.99497",
+    "geom:latitude":16.99497,
+    "geom:longitude":-25.21126,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13216093: name \"Covada de John\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13216093"
+        },
+        {
+            "citation":"GeoNames populated place 13216093: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13216093"
+        },
+        {
+            "citation":"GeoNames populated place 13216093: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13216093"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13216093
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"434e0b2439df3996ccd6fe3c418ecae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014302,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014302,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Covada de John",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.21126,
+    16.99497,
+    -25.21126,
+    16.99497
+],
+  "geometry": {"coordinates":[-25.21126,16.99497],"type":"Point"}
+}

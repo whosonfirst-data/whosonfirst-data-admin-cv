@@ -1,0 +1,72 @@
+{
+  "id": 9895014150,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.03814,17.08203,-25.03814,17.08203",
+    "geom:latitude":17.08203,
+    "geom:longitude":-25.03814,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163231: name \"Estancinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163231"
+        },
+        {
+            "citation":"GeoNames populated place 13163231: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163231"
+        },
+        {
+            "citation":"GeoNames populated place 13163231: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163231"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163231
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8334132242a33a77baa006c27a5577f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014150,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014150,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Estancinho",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.03814,
+    17.08203,
+    -25.03814,
+    17.08203
+],
+  "geometry": {"coordinates":[-25.03814,17.08203],"type":"Point"}
+}

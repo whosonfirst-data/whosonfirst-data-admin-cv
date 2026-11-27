@@ -1,0 +1,72 @@
+{
+  "id": 9895015631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.68691,15.07181,-23.68691,15.07181",
+    "geom:latitude":15.07181,
+    "geom:longitude":-23.68691,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399196: name \"Alta Mira de Palha Carga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399196"
+        },
+        {
+            "citation":"GeoNames populated place 13399196: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399196"
+        },
+        {
+            "citation":"GeoNames populated place 13399196: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399196"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399196
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9c332fa4f86c75ec33ab081bab33454e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015631,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015631,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Alta Mira de Palha Carga",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.68691,
+    15.07181,
+    -23.68691,
+    15.07181
+],
+  "geometry": {"coordinates":[-23.68691,15.07181],"type":"Point"}
+}

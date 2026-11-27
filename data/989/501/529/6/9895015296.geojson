@@ -1,0 +1,73 @@
+{
+  "id": 9895015296,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.54412,15.05334,-23.54412,15.05334",
+    "geom:latitude":15.05334,
+    "geom:longitude":-23.54412,
+    "gn:population":268,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398771: name \"Mato Afonso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398771"
+        },
+        {
+            "citation":"GeoNames populated place 13398771: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398771"
+        },
+        {
+            "citation":"GeoNames populated place 13398771: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398771"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670319 (S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670319,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398771
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"30fdea2f06127f4b1c0561a8750308e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015296,
+            "region_id":85670319
+        }
+    ],
+    "wof:id":9895015296,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Mato Afonso",
+    "wof:parent_id":85670319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.54412,
+    15.05334,
+    -23.54412,
+    15.05334
+],
+  "geometry": {"coordinates":[-23.54412,15.05334],"type":"Point"}
+}

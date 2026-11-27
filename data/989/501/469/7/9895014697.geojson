@@ -1,0 +1,73 @@
+{
+  "id": 9895014697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.58894,15.13088,-23.58894,15.13088",
+    "geom:latitude":15.13088,
+    "geom:longitude":-23.58894,
+    "gn:population":34,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319018: name \"Pizarra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319018"
+        },
+        {
+            "citation":"GeoNames populated place 13319018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319018"
+        },
+        {
+            "citation":"GeoNames populated place 13319018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319018"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319018
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"5e497121004a9df6b57c696b09a1692d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014697,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895014697,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Pizarra",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.58894,
+    15.13088,
+    -23.58894,
+    15.13088
+],
+  "geometry": {"coordinates":[-23.58894,15.13088],"type":"Point"}
+}

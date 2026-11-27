@@ -1,0 +1,72 @@
+{
+  "id": 9895015992,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.41849,14.8712,-24.41849,14.8712",
+    "geom:latitude":14.8712,
+    "geom:longitude":-24.41849,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13496724: name \"Achada Ant\u00f3nio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13496724"
+        },
+        {
+            "citation":"GeoNames populated place 13496724: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13496724"
+        },
+        {
+            "citation":"GeoNames populated place 13496724: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13496724"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13496724
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"5a796f99e43679eb093c2c4b325e641a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015992,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015992,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Achada Ant\u00f3nio",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.41849,
+    14.8712,
+    -24.41849,
+    14.8712
+],
+  "geometry": {"coordinates":[-24.41849,14.8712],"type":"Point"}
+}

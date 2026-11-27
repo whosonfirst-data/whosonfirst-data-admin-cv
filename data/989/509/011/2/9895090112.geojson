@@ -1,0 +1,73 @@
+{
+  "id": 9895090112,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.09388,17.20017,-25.09388,17.20017",
+    "geom:latitude":17.20017,
+    "geom:longitude":-25.09388,
+    "gn:population":294,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163166: name \"Cabouquinho de Tinta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163166"
+        },
+        {
+            "citation":"GeoNames populated place 13163166: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163166"
+        },
+        {
+            "citation":"GeoNames populated place 13163166: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163166"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163166
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"a7ae336b78290e43fa9f1e941652ad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895090112,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895090112,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Cabouquinho de Tinta",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.09388,
+    17.20017,
+    -25.09388,
+    17.20017
+],
+  "geometry": {"coordinates":[-25.09388,17.20017],"type":"Point"}
+}

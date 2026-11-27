@@ -1,0 +1,73 @@
+{
+  "id": 9895015904,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.47044,14.91791,-24.47044,14.91791",
+    "geom:latitude":14.91791,
+    "geom:longitude":-24.47044,
+    "gn:population":116,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13490898: name \"Cutelo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13490898"
+        },
+        {
+            "citation":"GeoNames populated place 13490898: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13490898"
+        },
+        {
+            "citation":"GeoNames populated place 13490898: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13490898"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13490898
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ad2188b24c8b9576c53fe83bb0e7a360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015904,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015904,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cutelo",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.47044,
+    14.91791,
+    -24.47044,
+    14.91791
+],
+  "geometry": {"coordinates":[-24.47044,14.91791],"type":"Point"}
+}

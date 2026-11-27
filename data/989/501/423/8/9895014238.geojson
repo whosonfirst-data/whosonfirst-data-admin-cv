@@ -1,0 +1,72 @@
+{
+  "id": 9895014238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.09322,17.01171,-25.09322,17.01171",
+    "geom:latitude":17.01171,
+    "geom:longitude":-25.09322,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163404: name \"Ch\u00e3 do Brejo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163404"
+        },
+        {
+            "citation":"GeoNames populated place 13163404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163404"
+        },
+        {
+            "citation":"GeoNames populated place 13163404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163404"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163404
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"aff0d0adc43d342a2c9105397196cc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014238,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014238,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 do Brejo",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.09322,
+    17.01171,
+    -25.09322,
+    17.01171
+],
+  "geometry": {"coordinates":[-25.09322,17.01171],"type":"Point"}
+}

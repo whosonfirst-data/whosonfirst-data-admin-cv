@@ -1,0 +1,73 @@
+{
+  "id": 9895014324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.92722,16.87383,-24.92722,16.87383",
+    "geom:latitude":16.87383,
+    "geom:longitude":-24.92722,
+    "gn:population":10,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13233321: name \"Monte Verde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13233321"
+        },
+        {
+            "citation":"GeoNames populated place 13233321: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13233321"
+        },
+        {
+            "citation":"GeoNames populated place 13233321: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13233321"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670355 (S\u00e3o Vicente), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670355,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13233321
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"25e0945a55058cb62b93eabc2763126e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014324,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":9895014324,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Monte Verde",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.92722,
+    16.87383,
+    -24.92722,
+    16.87383
+],
+  "geometry": {"coordinates":[-24.92722,16.87383],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.65057,15.00282,-23.65057,15.00282",
+    "geom:latitude":15.00282,
+    "geom:longitude":-23.65057,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398665: name \"Cov\u00e3o Vieira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398665"
+        },
+        {
+            "citation":"GeoNames populated place 13398665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398665"
+        },
+        {
+            "citation":"GeoNames populated place 13398665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398665"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670327 (Ribeira Grande de Santiago), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398665
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3a59863bc8fbdf163516a8c71d9e05f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015219,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":9895015219,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cov\u00e3o Vieira",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.65057,
+    15.00282,
+    -23.65057,
+    15.00282
+],
+  "geometry": {"coordinates":[-23.65057,15.00282],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.61571,15.06506,-23.61571,15.06506",
+    "geom:latitude":15.06506,
+    "geom:longitude":-23.61571,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398952: name \"Mato Novo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398952"
+        },
+        {
+            "citation":"GeoNames populated place 13398952: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398952"
+        },
+        {
+            "citation":"GeoNames populated place 13398952: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398952"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670315 (S\u00e3o Salvador do Mundo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670315,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398952
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ed0557141e9c30f32e82556f712847e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015442,
+            "region_id":85670315
+        }
+    ],
+    "wof:id":9895015442,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Mato Novo",
+    "wof:parent_id":85670315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.61571,
+    15.06506,
+    -23.61571,
+    15.06506
+],
+  "geometry": {"coordinates":[-23.61571,15.06506],"type":"Point"}
+}

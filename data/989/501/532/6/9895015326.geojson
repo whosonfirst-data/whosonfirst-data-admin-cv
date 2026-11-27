@@ -1,0 +1,73 @@
+{
+  "id": 9895015326,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.5532,15.05978,-23.5532,15.05978",
+    "geom:latitude":15.05978,
+    "geom:longitude":-23.5532,
+    "gn:population":149,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398806: name \"Rob\u00e3o Cal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398806"
+        },
+        {
+            "citation":"GeoNames populated place 13398806: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398806"
+        },
+        {
+            "citation":"GeoNames populated place 13398806: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398806"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670319 (S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670319,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398806
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8a94eca19fc9c6b76d2d52139d361f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015326,
+            "region_id":85670319
+        }
+    ],
+    "wof:id":9895015326,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Rob\u00e3o Cal",
+    "wof:parent_id":85670319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.5532,
+    15.05978,
+    -23.5532,
+    15.05978
+],
+  "geometry": {"coordinates":[-23.5532,15.05978],"type":"Point"}
+}

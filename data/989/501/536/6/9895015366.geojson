@@ -1,0 +1,72 @@
+{
+  "id": 9895015366,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.57148,15.0115,-23.57148,15.0115",
+    "geom:latitude":15.0115,
+    "geom:longitude":-23.57148,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398858: name \"Espinho Cheu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398858"
+        },
+        {
+            "citation":"GeoNames populated place 13398858: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398858"
+        },
+        {
+            "citation":"GeoNames populated place 13398858: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398858"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398858
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"32f9b941f9b5e52e43086ddabf0a80ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015366,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015366,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Espinho Cheu",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.57148,
+    15.0115,
+    -23.57148,
+    15.0115
+],
+  "geometry": {"coordinates":[-23.57148,15.0115],"type":"Point"}
+}

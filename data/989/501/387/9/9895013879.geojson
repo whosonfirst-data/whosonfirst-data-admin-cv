@@ -1,0 +1,72 @@
+{
+  "id": 9895013879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.06238,17.15332,-25.06238,17.15332",
+    "geom:latitude":17.15332,
+    "geom:longitude":-25.06238,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162690: name \"Tapume\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162690"
+        },
+        {
+            "citation":"GeoNames populated place 13162690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162690"
+        },
+        {
+            "citation":"GeoNames populated place 13162690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162690"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162690
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"0213a37323fb1116d158706e6a9c1f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013879,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013879,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tapume",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.06238,
+    17.15332,
+    -25.06238,
+    17.15332
+],
+  "geometry": {"coordinates":[-25.06238,17.15332],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.69952,14.8327,-24.69952,14.8327",
+    "geom:latitude":14.8327,
+    "geom:longitude":-24.69952,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13480616: name \"Morro Largo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13480616"
+        },
+        {
+            "citation":"GeoNames populated place 13480616: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13480616"
+        },
+        {
+            "citation":"GeoNames populated place 13480616: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13480616"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670279 (Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670279,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13480616
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"77ebd9bb19263afc613d15c91566c052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015799,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":9895015799,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Morro Largo",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.69952,
+    14.8327,
+    -24.69952,
+    14.8327
+],
+  "geometry": {"coordinates":[-24.69952,14.8327],"type":"Point"}
+}

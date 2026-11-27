@@ -1,0 +1,72 @@
+{
+  "id": 9895014386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.3526,16.55768,-24.3526,16.55768",
+    "geom:latitude":16.55768,
+    "geom:longitude":-24.3526,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13253850: name \"Ch\u00e3 de Espanaderim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13253850"
+        },
+        {
+            "citation":"GeoNames populated place 13253850: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13253850"
+        },
+        {
+            "citation":"GeoNames populated place 13253850: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13253850"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670351 (Tarrafal de S\u00e3o Nicolau), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670351,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13253850
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"54043c8d73bca5d9d9b1291a2c666d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014386,
+            "region_id":85670351
+        }
+    ],
+    "wof:id":9895014386,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de Espanaderim",
+    "wof:parent_id":85670351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.3526,
+    16.55768,
+    -24.3526,
+    16.55768
+],
+  "geometry": {"coordinates":[-24.3526,16.55768],"type":"Point"}
+}

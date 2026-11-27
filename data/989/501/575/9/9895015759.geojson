@@ -1,0 +1,72 @@
+{
+  "id": 9895015759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.58645,15.08272,-23.58645,15.08272",
+    "geom:latitude":15.08272,
+    "geom:longitude":-23.58645,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13458920: name \"V\u00e1rzea\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13458920"
+        },
+        {
+            "citation":"GeoNames populated place 13458920: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13458920"
+        },
+        {
+            "citation":"GeoNames populated place 13458920: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13458920"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670315 (S\u00e3o Salvador do Mundo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670315,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13458920
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e82a120e2d8d0042d297a9b7504d251f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015759,
+            "region_id":85670315
+        }
+    ],
+    "wof:id":9895015759,
+    "wof:lastmodified":1795734980,
+    "wof:name":"V\u00e1rzea",
+    "wof:parent_id":85670315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.58645,
+    15.08272,
+    -23.58645,
+    15.08272
+],
+  "geometry": {"coordinates":[-23.58645,15.08272],"type":"Point"}
+}

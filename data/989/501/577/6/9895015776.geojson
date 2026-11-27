@@ -1,0 +1,72 @@
+{
+  "id": 9895015776,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.66961,14.98189,-23.66961,14.98189",
+    "geom:latitude":14.98189,
+    "geom:longitude":-23.66961,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13459430: name \"Cabeceira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13459430"
+        },
+        {
+            "citation":"GeoNames populated place 13459430: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13459430"
+        },
+        {
+            "citation":"GeoNames populated place 13459430: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13459430"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670327 (Ribeira Grande de Santiago), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13459430
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e2a5ab41d8ff5ccdc36d101f245afaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015776,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":9895015776,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cabeceira",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.66961,
+    14.98189,
+    -23.66961,
+    14.98189
+],
+  "geometry": {"coordinates":[-23.66961,14.98189],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895014057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.1659,17.0166,-25.1659,17.0166",
+    "geom:latitude":17.0166,
+    "geom:longitude":-25.1659,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163045: name \"Covada Branca\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163045"
+        },
+        {
+            "citation":"GeoNames populated place 13163045: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163045"
+        },
+        {
+            "citation":"GeoNames populated place 13163045: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163045"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163045
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"822f5d297b8a195809caa82796ac2a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014057,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895014057,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Covada Branca",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.1659,
+    17.0166,
+    -25.1659,
+    17.0166
+],
+  "geometry": {"coordinates":[-25.1659,17.0166],"type":"Point"}
+}

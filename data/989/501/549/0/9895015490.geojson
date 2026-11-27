@@ -1,0 +1,73 @@
+{
+  "id": 9895015490,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.50791,15.06081,-23.50791,15.06081",
+    "geom:latitude":15.06081,
+    "geom:longitude":-23.50791,
+    "gn:population":62,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399020: name \"Gelandr\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399020"
+        },
+        {
+            "citation":"GeoNames populated place 13399020: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399020"
+        },
+        {
+            "citation":"GeoNames populated place 13399020: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399020"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670311 (Santa Cruz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670311,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399020
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"54274f13c98859f8c147ab58e18c9511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015490,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":9895015490,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Gelandr\u00e9",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.50791,
+    15.06081,
+    -23.50791,
+    15.06081
+],
+  "geometry": {"coordinates":[-23.50791,15.06081],"type":"Point"}
+}

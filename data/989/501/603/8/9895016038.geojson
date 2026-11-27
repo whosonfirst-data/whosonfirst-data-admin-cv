@@ -1,0 +1,73 @@
+{
+  "id": 9895016038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.69918,14.8817,-24.69918,14.8817",
+    "geom:latitude":14.8817,
+    "geom:longitude":-24.69918,
+    "gn:population":525,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645884: name \"Lem Rural\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645884"
+        },
+        {
+            "citation":"GeoNames populated place 13645884: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645884"
+        },
+        {
+            "citation":"GeoNames populated place 13645884: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645884"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670279 (Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670279,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645884
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f776960be664bc6ea93b79a89d7eceb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016038,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":9895016038,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lem Rural",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.69918,
+    14.8817,
+    -24.69918,
+    14.8817
+],
+  "geometry": {"coordinates":[-24.69918,14.8817],"type":"Point"}
+}

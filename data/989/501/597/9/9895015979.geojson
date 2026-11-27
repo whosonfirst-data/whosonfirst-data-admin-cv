@@ -1,0 +1,72 @@
+{
+  "id": 9895015979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.34891,14.90475,-24.34891,14.90475",
+    "geom:latitude":14.90475,
+    "geom:longitude":-24.34891,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13492273: name \"Monte Preto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13492273"
+        },
+        {
+            "citation":"GeoNames populated place 13492273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13492273"
+        },
+        {
+            "citation":"GeoNames populated place 13492273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13492273"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670293 (Santa Catarina do Fogo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670293,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13492273
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e53183c724e593bf78cb037f3640a27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015979,
+            "region_id":85670293
+        }
+    ],
+    "wof:id":9895015979,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Monte Preto",
+    "wof:parent_id":85670293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.34891,
+    14.90475,
+    -24.34891,
+    14.90475
+],
+  "geometry": {"coordinates":[-24.34891,14.90475],"type":"Point"}
+}

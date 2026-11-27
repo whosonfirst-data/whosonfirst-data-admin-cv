@@ -1,0 +1,72 @@
+{
+  "id": 9895015533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.52883,15.02581,-23.52883,15.02581",
+    "geom:latitude":15.02581,
+    "geom:longitude":-23.52883,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399074: name \"Ribeir\u00e3o Jer\u00f3nimo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399074"
+        },
+        {
+            "citation":"GeoNames populated place 13399074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399074"
+        },
+        {
+            "citation":"GeoNames populated place 13399074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399074"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399074
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f72ce5b683fef1a7145cd5c28e49a1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015533,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015533,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ribeir\u00e3o Jer\u00f3nimo",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.52883,
+    15.02581,
+    -23.52883,
+    15.02581
+],
+  "geometry": {"coordinates":[-23.52883,15.02581],"type":"Point"}
+}

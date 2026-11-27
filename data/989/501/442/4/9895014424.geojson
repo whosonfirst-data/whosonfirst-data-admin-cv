@@ -1,0 +1,72 @@
+{
+  "id": 9895014424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.18661,16.62869,-24.18661,16.62869",
+    "geom:latitude":16.62869,
+    "geom:longitude":-24.18661,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13254014: name \"Do Branco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13254014"
+        },
+        {
+            "citation":"GeoNames populated place 13254014: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13254014"
+        },
+        {
+            "citation":"GeoNames populated place 13254014: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13254014"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670347 (Ribeira Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13254014
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"49e5f0b2f6167f838831d8176879ce44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014424,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":9895014424,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Do Branco",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.18661,
+    16.62869,
+    -24.18661,
+    16.62869
+],
+  "geometry": {"coordinates":[-24.18661,16.62869],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.58548,15.01314,-23.58548,15.01314",
+    "geom:latitude":15.01314,
+    "geom:longitude":-23.58548,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398936: name \"Barnab\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398936"
+        },
+        {
+            "citation":"GeoNames populated place 13398936: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398936"
+        },
+        {
+            "citation":"GeoNames populated place 13398936: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398936"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398936
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"979cf11a9e5c3ea5b8d48c3789614a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015429,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015429,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Barnab\u00e9",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.58548,
+    15.01314,
+    -23.58548,
+    15.01314
+],
+  "geometry": {"coordinates":[-23.58548,15.01314],"type":"Point"}
+}

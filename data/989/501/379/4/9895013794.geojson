@@ -1,0 +1,72 @@
+{
+  "id": 9895013794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.27343,16.96437,-25.27343,16.96437",
+    "geom:latitude":16.96437,
+    "geom:longitude":-25.27343,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13139303: name \"Monte Cova da Vassoura\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13139303"
+        },
+        {
+            "citation":"GeoNames populated place 13139303: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13139303"
+        },
+        {
+            "citation":"GeoNames populated place 13139303: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13139303"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13139303
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"18fcbcb9bfae67ac6ddab9f006cbb1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013794,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013794,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Monte Cova da Vassoura",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.27343,
+    16.96437,
+    -25.27343,
+    16.96437
+],
+  "geometry": {"coordinates":[-25.27343,16.96437],"type":"Point"}
+}

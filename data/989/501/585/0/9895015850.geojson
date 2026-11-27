@@ -1,0 +1,72 @@
+{
+  "id": 9895015850,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.36521,15.00796,-24.36521,15.00796",
+    "geom:latitude":15.00796,
+    "geom:longitude":-24.36521,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13485627: name \"Piorno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13485627"
+        },
+        {
+            "citation":"GeoNames populated place 13485627: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13485627"
+        },
+        {
+            "citation":"GeoNames populated place 13485627: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13485627"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670287 (Mosteiros), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670287,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13485627
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"905eb16ff0bf3e5318a5c45c3697bb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015850,
+            "region_id":85670287
+        }
+    ],
+    "wof:id":9895015850,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Piorno",
+    "wof:parent_id":85670287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.36521,
+    15.00796,
+    -24.36521,
+    15.00796
+],
+  "geometry": {"coordinates":[-24.36521,15.00796],"type":"Point"}
+}

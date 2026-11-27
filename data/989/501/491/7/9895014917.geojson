@@ -1,0 +1,72 @@
+{
+  "id": 9895014917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.61884,15.19317,-23.61884,15.19317",
+    "geom:latitude":15.19317,
+    "geom:longitude":-23.61884,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319325: name \"Canto Grande\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319325"
+        },
+        {
+            "citation":"GeoNames populated place 13319325: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319325"
+        },
+        {
+            "citation":"GeoNames populated place 13319325: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319325"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670305 (S\u00e3o Miguel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670305,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319325
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"340ff7e2d61e50f5c887e61f1f5ca681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014917,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":9895014917,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Canto Grande",
+    "wof:parent_id":85670305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.61884,
+    15.19317,
+    -23.61884,
+    15.19317
+],
+  "geometry": {"coordinates":[-23.61884,15.19317],"type":"Point"}
+}

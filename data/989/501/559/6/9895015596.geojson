@@ -1,0 +1,72 @@
+{
+  "id": 9895015596,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.66497,15.10976,-23.66497,15.10976",
+    "geom:latitude":15.10976,
+    "geom:longitude":-23.66497,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399157: name \"Ch\u00f3r\u00f3r\u00f3\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399157"
+        },
+        {
+            "citation":"GeoNames populated place 13399157: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399157"
+        },
+        {
+            "citation":"GeoNames populated place 13399157: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399157"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399157
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"32053f24077887bffb9adb961fbb1b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015596,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015596,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00f3r\u00f3r\u00f3",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.66497,
+    15.10976,
+    -23.66497,
+    15.10976
+],
+  "geometry": {"coordinates":[-23.66497,15.10976],"type":"Point"}
+}

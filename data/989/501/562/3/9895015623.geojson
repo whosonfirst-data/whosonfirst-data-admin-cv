@@ -1,0 +1,73 @@
+{
+  "id": 9895015623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.58169,15.03464,-23.58169,15.03464",
+    "geom:latitude":15.03464,
+    "geom:longitude":-23.58169,
+    "gn:population":943,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399187: name \"\u00c1gua de Gato\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399187"
+        },
+        {
+            "citation":"GeoNames populated place 13399187: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399187"
+        },
+        {
+            "citation":"GeoNames populated place 13399187: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399187"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670319 (S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670319,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399187
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"fbf19a86a5fb929041746b28a2767423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015623,
+            "region_id":85670319
+        }
+    ],
+    "wof:id":9895015623,
+    "wof:lastmodified":1795734980,
+    "wof:name":"\u00c1gua de Gato",
+    "wof:parent_id":85670319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.58169,
+    15.03464,
+    -23.58169,
+    15.03464
+],
+  "geometry": {"coordinates":[-23.58169,15.03464],"type":"Point"}
+}

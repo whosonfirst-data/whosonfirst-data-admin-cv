@@ -1,0 +1,72 @@
+{
+  "id": 9895013757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.29516,17.10271,-25.29516,17.10271",
+    "geom:latitude":17.10271,
+    "geom:longitude":-25.29516,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13137459: name \"Ch\u00e3 de Tabuleiro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13137459"
+        },
+        {
+            "citation":"GeoNames populated place 13137459: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13137459"
+        },
+        {
+            "citation":"GeoNames populated place 13137459: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13137459"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13137459
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"076eb35916e28cbec894bbf4cd775cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013757,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013757,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de Tabuleiro",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.29516,
+    17.10271,
+    -25.29516,
+    17.10271
+],
+  "geometry": {"coordinates":[-25.29516,17.10271],"type":"Point"}
+}

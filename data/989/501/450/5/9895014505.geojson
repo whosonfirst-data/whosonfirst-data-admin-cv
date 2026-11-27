@@ -1,0 +1,72 @@
+{
+  "id": 9895014505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.79346,16.08736,-22.79346,16.08736",
+    "geom:latitude":16.08736,
+    "geom:longitude":-22.79346,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13293245: name \"Nh\u00e3 Piripiri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13293245"
+        },
+        {
+            "citation":"GeoNames populated place 13293245: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13293245"
+        },
+        {
+            "citation":"GeoNames populated place 13293245: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13293245"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670339 (Boa Vista), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670339,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13293245
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"aee696bd38d626ddcfbbc1c0a5255863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014505,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":9895014505,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Nh\u00e3 Piripiri",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.79346,
+    16.08736,
+    -22.79346,
+    16.08736
+],
+  "geometry": {"coordinates":[-22.79346,16.08736],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895014050,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.04093,17.13638,-25.04093,17.13638",
+    "geom:latitude":17.13638,
+    "geom:longitude":-25.04093,
+    "gn:population":86,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163033: name \"Ch\u00e3 de Erva\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163033"
+        },
+        {
+            "citation":"GeoNames populated place 13163033: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163033"
+        },
+        {
+            "citation":"GeoNames populated place 13163033: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163033"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670369 (Paul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670369,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163033
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"23195fc605537a5429b389772f2804a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014050,
+            "region_id":85670369
+        }
+    ],
+    "wof:id":9895014050,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de Erva",
+    "wof:parent_id":85670369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.04093,
+    17.13638,
+    -25.04093,
+    17.13638
+],
+  "geometry": {"coordinates":[-25.04093,17.13638],"type":"Point"}
+}

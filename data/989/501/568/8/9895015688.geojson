@@ -1,0 +1,72 @@
+{
+  "id": 9895015688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.51192,14.9491,-23.51192,14.9491",
+    "geom:latitude":14.9491,
+    "geom:longitude":-23.51192,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13403392: name \"S\u00e3o Filipe de Baixo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13403392"
+        },
+        {
+            "citation":"GeoNames populated place 13403392: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13403392"
+        },
+        {
+            "citation":"GeoNames populated place 13403392: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13403392"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670331 (Praia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13403392
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9de71b8091f6fd7abae850a9d6d83e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015688,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":9895015688,
+    "wof:lastmodified":1795734980,
+    "wof:name":"S\u00e3o Filipe de Baixo",
+    "wof:parent_id":85670331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.51192,
+    14.9491,
+    -23.51192,
+    14.9491
+],
+  "geometry": {"coordinates":[-23.51192,14.9491],"type":"Point"}
+}

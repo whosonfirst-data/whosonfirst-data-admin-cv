@@ -1,0 +1,73 @@
+{
+  "id": 9895013964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.04401,17.13477,-25.04401,17.13477",
+    "geom:latitude":17.13477,
+    "geom:longitude":-25.04401,
+    "gn:population":4,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162859: name \"Lombo de Joana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162859"
+        },
+        {
+            "citation":"GeoNames populated place 13162859: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162859"
+        },
+        {
+            "citation":"GeoNames populated place 13162859: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162859"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162859
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"4ea1cf97d4abca156354fd2fb277549e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013964,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013964,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Lombo de Joana",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.04401,
+    17.13477,
+    -25.04401,
+    17.13477
+],
+  "geometry": {"coordinates":[-25.04401,17.13477],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.47798,14.88187,-24.47798,14.88187",
+    "geom:latitude":14.88187,
+    "geom:longitude":-24.47798,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13490989: name \"Capela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13490989"
+        },
+        {
+            "citation":"GeoNames populated place 13490989: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13490989"
+        },
+        {
+            "citation":"GeoNames populated place 13490989: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13490989"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13490989
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1e87091cc69d66606f6778bc95e82127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015948,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015948,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Capela",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.47798,
+    14.88187,
+    -24.47798,
+    14.88187
+],
+  "geometry": {"coordinates":[-24.47798,14.88187],"type":"Point"}
+}

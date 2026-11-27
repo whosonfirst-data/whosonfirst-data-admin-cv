@@ -1,0 +1,72 @@
+{
+  "id": 9895015300,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.50424,15.02392,-23.50424,15.02392",
+    "geom:latitude":15.02392,
+    "geom:longitude":-23.50424,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398775: name \"Grazote\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398775"
+        },
+        {
+            "citation":"GeoNames populated place 13398775: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398775"
+        },
+        {
+            "citation":"GeoNames populated place 13398775: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398775"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670321 (S\u00e3o Domingos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670321,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398775
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"a07d296204907a0bc8f5dc630b258b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015300,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":9895015300,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Grazote",
+    "wof:parent_id":85670321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.50424,
+    15.02392,
+    -23.50424,
+    15.02392
+],
+  "geometry": {"coordinates":[-23.50424,15.02392],"type":"Point"}
+}

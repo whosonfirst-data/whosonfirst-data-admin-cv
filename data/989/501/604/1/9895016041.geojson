@@ -1,0 +1,73 @@
+{
+  "id": 9895016041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.34587,14.90413,-24.34587,14.90413",
+    "geom:latitude":14.90413,
+    "geom:longitude":-24.34587,
+    "gn:population":186,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645887: name \"Cabe\u00e7a Fund\u00e3o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645887"
+        },
+        {
+            "citation":"GeoNames populated place 13645887: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645887"
+        },
+        {
+            "citation":"GeoNames populated place 13645887: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645887"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670293 (Santa Catarina do Fogo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670293,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645887
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"2c72a12bfb871893efd40262546453cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016041,
+            "region_id":85670293
+        }
+    ],
+    "wof:id":9895016041,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cabe\u00e7a Fund\u00e3o",
+    "wof:parent_id":85670293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.34587,
+    14.90413,
+    -24.34587,
+    14.90413
+],
+  "geometry": {"coordinates":[-24.34587,14.90413],"type":"Point"}
+}

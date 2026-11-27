@@ -1,0 +1,72 @@
+{
+  "id": 9895015906,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.45776,14.92696,-24.45776,14.92696",
+    "geom:latitude":14.92696,
+    "geom:longitude":-24.45776,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13490915: name \"Cerrado Nh\u00f4 Lixo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13490915"
+        },
+        {
+            "citation":"GeoNames populated place 13490915: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13490915"
+        },
+        {
+            "citation":"GeoNames populated place 13490915: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13490915"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13490915
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ea98fa43c1443dd9c5c5ad692b96491b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015906,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895015906,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Cerrado Nh\u00f4 Lixo",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.45776,
+    14.92696,
+    -24.45776,
+    14.92696
+],
+  "geometry": {"coordinates":[-24.45776,14.92696],"type":"Point"}
+}

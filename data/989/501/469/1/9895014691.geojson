@@ -1,0 +1,72 @@
+{
+  "id": 9895014691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.6878,15.1893,-23.6878,15.1893",
+    "geom:latitude":15.1893,
+    "geom:longitude":-23.6878,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13319000: name \"Rib\u00e3o Fich\u00e3o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13319000"
+        },
+        {
+            "citation":"GeoNames populated place 13319000: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13319000"
+        },
+        {
+            "citation":"GeoNames populated place 13319000: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13319000"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670299 (Tarrafal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670299,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13319000
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1f2af4991a8f02c2b55a2f900b6a9c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014691,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":9895014691,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Rib\u00e3o Fich\u00e3o",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.6878,
+    15.1893,
+    -23.6878,
+    15.1893
+],
+  "geometry": {"coordinates":[-23.6878,15.1893],"type":"Point"}
+}

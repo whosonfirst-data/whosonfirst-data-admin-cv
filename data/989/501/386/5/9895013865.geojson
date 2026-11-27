@@ -1,0 +1,73 @@
+{
+  "id": 9895013865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.12755,17.13396,-25.12755,17.13396",
+    "geom:latitude":17.13396,
+    "geom:longitude":-25.12755,
+    "gn:population":60,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162664: name \"Ch\u00e3 de Lobinhos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162664"
+        },
+        {
+            "citation":"GeoNames populated place 13162664: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162664"
+        },
+        {
+            "citation":"GeoNames populated place 13162664: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162664"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162664
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"13d7c0d4e6fadf90c0f55151de8fbf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013865,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895013865,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de Lobinhos",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.12755,
+    17.13396,
+    -25.12755,
+    17.13396
+],
+  "geometry": {"coordinates":[-25.12755,17.13396],"type":"Point"}
+}

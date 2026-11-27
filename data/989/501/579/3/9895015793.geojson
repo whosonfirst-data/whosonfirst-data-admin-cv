@@ -1,0 +1,72 @@
+{
+  "id": 9895015793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.70717,14.87661,-24.70717,14.87661",
+    "geom:latitude":14.87661,
+    "geom:longitude":-24.70717,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13480566: name \"Tras da Cova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13480566"
+        },
+        {
+            "citation":"GeoNames populated place 13480566: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13480566"
+        },
+        {
+            "citation":"GeoNames populated place 13480566: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13480566"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670279 (Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670279,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13480566
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9c24bda8787893e625ae2067b3a1e1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015793,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":9895015793,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Tras da Cova",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.70717,
+    14.87661,
+    -24.70717,
+    14.87661
+],
+  "geometry": {"coordinates":[-24.70717,14.87661],"type":"Point"}
+}

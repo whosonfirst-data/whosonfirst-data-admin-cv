@@ -1,0 +1,72 @@
+{
+  "id": 9895016004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.36805,14.84603,-24.36805,14.84603",
+    "geom:latitude":14.84603,
+    "geom:longitude":-24.36805,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13496765: name \"Jo\u00e3o Carreia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13496765"
+        },
+        {
+            "citation":"GeoNames populated place 13496765: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13496765"
+        },
+        {
+            "citation":"GeoNames populated place 13496765: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13496765"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670283 (S\u00e3o Filipe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670283,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13496765
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"d85f2de0270e67d62deb05d866164ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895016004,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":9895016004,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Jo\u00e3o Carreia",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.36805,
+    14.84603,
+    -24.36805,
+    14.84603
+],
+  "geometry": {"coordinates":[-24.36805,14.84603],"type":"Point"}
+}

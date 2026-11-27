@@ -1,0 +1,72 @@
+{
+  "id": 9895014440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.23479,16.61997,-24.23479,16.61997",
+    "geom:latitude":16.61997,
+    "geom:longitude":-24.23479,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13254198: name \"Dilig\u00eancia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13254198"
+        },
+        {
+            "citation":"GeoNames populated place 13254198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13254198"
+        },
+        {
+            "citation":"GeoNames populated place 13254198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13254198"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670347 (Ribeira Brava), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13254198
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"85552a836e6a9d314be4aebbf78e4b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014440,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":9895014440,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Dilig\u00eancia",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.23479,
+    16.61997,
+    -24.23479,
+    16.61997
+],
+  "geometry": {"coordinates":[-24.23479,16.61997],"type":"Point"}
+}

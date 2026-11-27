@@ -1,0 +1,73 @@
+{
+  "id": 9895014062,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.13037,17.15333,-25.13037,17.15333",
+    "geom:latitude":17.15333,
+    "geom:longitude":-25.13037,
+    "gn:population":108,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163052: name \"Boca de Ambas as Ribeiras\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163052"
+        },
+        {
+            "citation":"GeoNames populated place 13163052: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163052"
+        },
+        {
+            "citation":"GeoNames populated place 13163052: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163052"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670363 (Ribeira Grande), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670363,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163052
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6218a17bef85d94acd5695db0bed31b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895014062,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":9895014062,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Boca de Ambas as Ribeiras",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.13037,
+    17.15333,
+    -25.13037,
+    17.15333
+],
+  "geometry": {"coordinates":[-25.13037,17.15333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.32467,14.8767,-24.32467,14.8767",
+    "geom:latitude":14.8767,
+    "geom:longitude":-24.32467,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13492288: name \"Achada Rama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13492288"
+        },
+        {
+            "citation":"GeoNames populated place 13492288: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13492288"
+        },
+        {
+            "citation":"GeoNames populated place 13492288: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13492288"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670293 (Santa Catarina do Fogo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670293,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13492288
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"beaa7cef786f8852ce291cfd0ab9343b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015983,
+            "region_id":85670293
+        }
+    ],
+    "wof:id":9895015983,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Achada Rama",
+    "wof:parent_id":85670293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.32467,
+    14.8767,
+    -24.32467,
+    14.8767
+],
+  "geometry": {"coordinates":[-24.32467,14.8767],"type":"Point"}
+}

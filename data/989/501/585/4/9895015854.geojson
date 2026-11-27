@@ -1,0 +1,72 @@
+{
+  "id": 9895015854,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.38365,15.02333,-24.38365,15.02333",
+    "geom:latitude":15.02333,
+    "geom:longitude":-24.38365,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13485646: name \"Achada Mauricio\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13485646"
+        },
+        {
+            "citation":"GeoNames populated place 13485646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13485646"
+        },
+        {
+            "citation":"GeoNames populated place 13485646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13485646"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670287 (Mosteiros), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670287,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13485646
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"9b4258ddbf30826315985df229a1c62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015854,
+            "region_id":85670287
+        }
+    ],
+    "wof:id":9895015854,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Achada Mauricio",
+    "wof:parent_id":85670287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.38365,
+    15.02333,
+    -24.38365,
+    15.02333
+],
+  "geometry": {"coordinates":[-24.38365,15.02333],"type":"Point"}
+}

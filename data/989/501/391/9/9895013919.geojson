@@ -1,0 +1,72 @@
+{
+  "id": 9895013919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.12354,17.07313,-25.12354,17.07313",
+    "geom:latitude":17.07313,
+    "geom:longitude":-25.12354,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13162781: name \"D. Gon\u00e7alo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13162781"
+        },
+        {
+            "citation":"GeoNames populated place 13162781: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13162781"
+        },
+        {
+            "citation":"GeoNames populated place 13162781: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13162781"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13162781
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"5ff3d1f613cdf39e8970216d16f78591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013919,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013919,
+    "wof:lastmodified":1795734980,
+    "wof:name":"D. Gon\u00e7alo",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.12354,
+    17.07313,
+    -25.12354,
+    17.07313
+],
+  "geometry": {"coordinates":[-25.12354,17.07313],"type":"Point"}
+}

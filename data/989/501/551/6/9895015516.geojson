@@ -1,0 +1,72 @@
+{
+  "id": 9895015516,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.64997,15.07495,-23.64997,15.07495",
+    "geom:latitude":15.07495,
+    "geom:longitude":-23.64997,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13399053: name \"Alegrete\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13399053"
+        },
+        {
+            "citation":"GeoNames populated place 13399053: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13399053"
+        },
+        {
+            "citation":"GeoNames populated place 13399053: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13399053"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670301 (Santa Catarina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670301,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13399053
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"27bedb6532d74331ce1923a4591513d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015516,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":9895015516,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Alegrete",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64997,
+    15.07495,
+    -23.64997,
+    15.07495
+],
+  "geometry": {"coordinates":[-23.64997,15.07495],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895015127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.59502,15.0083,-23.59502,15.0083",
+    "geom:latitude":15.0083,
+    "geom:longitude":-23.59502,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13398551: name \"Massa Cavalos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13398551"
+        },
+        {
+            "citation":"GeoNames populated place 13398551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13398551"
+        },
+        {
+            "citation":"GeoNames populated place 13398551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13398551"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670327 (Ribeira Grande de Santiago), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13398551
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"fc25ad275e2da73897eb1260da788fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895015127,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":9895015127,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Massa Cavalos",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.59502,
+    15.0083,
+    -23.59502,
+    15.0083
+],
+  "geometry": {"coordinates":[-23.59502,15.0083],"type":"Point"}
+}

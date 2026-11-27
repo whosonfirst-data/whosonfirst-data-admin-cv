@@ -1,0 +1,72 @@
+{
+  "id": 9895013760,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.29559,17.08931,-25.29559,17.08931",
+    "geom:latitude":17.08931,
+    "geom:longitude":-25.29559,
+    "iso:country":"CV",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13137463: name \"Ch\u00e3 de L\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13137463"
+        },
+        {
+            "citation":"GeoNames populated place 13137463: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13137463"
+        },
+        {
+            "citation":"GeoNames populated place 13137463: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13137463"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670359 (Porto Novo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721,
+        85670359,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13137463
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8d3dff26124ea0ad69e048d4007a53d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":9895013760,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":9895013760,
+    "wof:lastmodified":1795734980,
+    "wof:name":"Ch\u00e3 de L\u00e1",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.29559,
+    17.08931,
+    -25.29559,
+    17.08931
+],
+  "geometry": {"coordinates":[-25.29559,17.08931],"type":"Point"}
+}
